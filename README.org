@@ -26,9 +26,9 @@ A list of clojure library.
 *** Network
 | Name  | Activity                                                        | Version                                          |
 |-------+-----------------------------------------------------------------+--------------------------------------------------|
-| link  | [[https://github.com/nrepl/nrepl][https://img.shields.io/github/last-commit/nrepl/nrepl.svg]]       | [[https://clojars.org/nrepl][https://img.shields.io/clojars/v/nrepl/nrepl.svg]] |
-| link  | [[https://github.com/clojure-link/link][https://img.shields.io/github/last-commit/clojure-link/link.svg]] | [[https://clojars.org/link][https://img.shields.io/clojars/v/link/link.svg]]   |
-| aleph | [[https://github.com/clj-commons/aleph][https://img.shields.io/github/last-commit/clj-commons/aleph.svg]] | [[https://clojars.org/aleph][https://img.shields.io/clojars/v/aleph/aleph.svg]] |
+| nREPL | [[https://github.com/nrepl/nrepl][https://img.shields.io/github/last-commit/nrepl/nrepl.svg]]       | [[https://clojars.org/nrepl][https://img.shields.io/clojars/v/nrepl/nrepl.svg]] |
+| Link  | [[https://github.com/clojure-link/link][https://img.shields.io/github/last-commit/clojure-link/link.svg]] | [[https://clojars.org/link][https://img.shields.io/clojars/v/link/link.svg]]   |
+| Aleph | [[https://github.com/clj-commons/aleph][https://img.shields.io/github/last-commit/clj-commons/aleph.svg]] | [[https://clojars.org/aleph][https://img.shields.io/clojars/v/aleph/aleph.svg]] |
 
 *** Single Page
 | Name    | Activity                                                              | Version                                              |
