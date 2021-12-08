@@ -39,6 +39,7 @@ A list of clojure library.
 | figwheel-main  | [[https://github.com/bhauman/figwheel-main][https://img.shields.io/github/last-commit/bhauman/figwheel-main.svg]]          | [[https://clojars.org/com.bhauman/figwheel-main][https://img.shields.io/clojars/v/com.bhauman/figwheel-main.svg]] |
 | leiningen      | [[https://github.com/leiningen/leiningen-chocolatey][https://img.shields.io/github/last-commit/leiningen/leiningen-chocolatey.svg]] | [[https://clojars.org/leiningen][https://img.shields.io/clojars/v/leiningen/leiningen.svg]]       |
 | lein-codox     | [[https://github.com/weavejester/codox][https://img.shields.io/github/last-commit/weavejester/codox.svg]]              | [[https://clojars.org/lein-codox][https://img.shields.io/clojars/v/lein-codox/lein-codox.svg]]     |
+| lein-kibit     | [[https://github.com/jonase/kibit][https://img.shields.io/github/last-commit/jonase/kibit.svg]]                   | [[https://clojars.org/lein-kibit][https://img.shields.io/clojars/v/lein-kibit/lein-kibit.svg]]     |
 
 *** Tools
 | Name        | Activity                                                         | Version                                                      |
