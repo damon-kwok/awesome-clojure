@@ -150,16 +150,17 @@ A list of clojure library.
 | Garden | [[https://github.com/noprompt/garden][https://img.shields.io/github/last-commit/noprompt/garden.svg]] | [[https://clojars.org/garden][https://img.shields.io/clojars/v/garden/garden.svg]] |
 
 *** SQL DSL
-| Name             | Activity                                                               | Version                                                |
-|------------------+------------------------------------------------------------------------+--------------------------------------------------------|
-| honeysql         | [[https://github.com/seancorfield/honeysql][https://img.shields.io/github/last-commit/seancorfield/honeysql.svg]]    | [[https://clojars.org/honeysql][https://img.shields.io/clojars/v/honeysql/honeysql.svg]] |
-| toucan           | [[https://github.com/metabase/toucan][https://img.shields.io/github/last-commit/metabase/toucan.svg]]          | [[https://clojars.org/toucan][https://img.shields.io/clojars/v/toucan/toucan.svg]]     |
-| sqlingvo         | [[https://github.com/r0man/sqlingvo][https://img.shields.io/github/last-commit/r0man/sqlingvo.svg]]           | [[https://clojars.org/sqlingvo][https://img.shields.io/clojars/v/sqlingvo/sqlingvo.svg]] |
-| walkable         | [[https://github.com/walkable-server/walkable][https://img.shields.io/github/last-commit/walkable-server/walkable.svg]] | [[https://clojars.org/walkable][https://img.shields.io/clojars/v/walkable/walkable.svg]] |
-| Korma            | [[https://github.com/korma/Korma][https://img.shields.io/github/last-commit/korma/Korma.svg]]              | [[https://clojars.org/korma][https://img.shields.io/clojars/v/korma/korma.svg]]       |
-| stch-library/sql | [[https://github.com/stch-library/sql][https://img.shields.io/github/last-commit/stch-library/sql.svg]]         | [[https://clojars.org/stch-library/sql][https://img.shields.io/clojars/v/stch-library/sql.svg]]  |
-| specql           | [[https://github.com/tatut/specql][https://img.shields.io/github/last-commit/tatut/specql.svg]]             | [[https://clojars.org/specql][https://img.shields.io/clojars/v/specql/specql.svg]]     |
-| sqlium           | [[https://github.com/PureFnOrg/sqlium][https://img.shields.io/github/last-commit/PureFnOrg/sqlium.svg]]         | [[https://clojars.org/org.purefn/sqlium][https://img.shields.io/clojars/v/org.purefn/sqlium.svg]] |
+| Name             | Activity                                                               | Version                                                   |
+|------------------+------------------------------------------------------------------------+-----------------------------------------------------------|
+| honeysql         | [[https://github.com/seancorfield/honeysql][https://img.shields.io/github/last-commit/seancorfield/honeysql.svg]]    | [[https://clojars.org/honeysql][https://img.shields.io/clojars/v/honeysql/honeysql.svg]]    |
+| toucan           | [[https://github.com/metabase/toucan][https://img.shields.io/github/last-commit/metabase/toucan.svg]]          | [[https://clojars.org/toucan][https://img.shields.io/clojars/v/toucan/toucan.svg]]        |
+| walkable         | [[https://github.com/walkable-server/walkable][https://img.shields.io/github/last-commit/walkable-server/walkable.svg]] | [[https://clojars.org/walkable][https://img.shields.io/clojars/v/walkable/walkable.svg]]    |
+| [[https://www.hugsql.org/][hugsql]]           | [[https://github.com/layerware/hugsql][https://img.shields.io/github/last-commit/layerware/hugsql.svg]]         | [[https://clojars.org/com.layerware/hugsql][https://img.shields.io/clojars/v/com.layerware/hugsql.svg]] |
+| sqlingvo         | [[https://github.com/r0man/sqlingvo][https://img.shields.io/github/last-commit/r0man/sqlingvo.svg]]           | [[https://clojars.org/sqlingvo][https://img.shields.io/clojars/v/sqlingvo/sqlingvo.svg]]    |
+| Korma            | [[https://github.com/korma/Korma][https://img.shields.io/github/last-commit/korma/Korma.svg]]              | [[https://clojars.org/korma][https://img.shields.io/clojars/v/korma/korma.svg]]          |
+| stch-library/sql | [[https://github.com/stch-library/sql][https://img.shields.io/github/last-commit/stch-library/sql.svg]]         | [[https://clojars.org/stch-library/sql][https://img.shields.io/clojars/v/stch-library/sql.svg]]     |
+| specql           | [[https://github.com/tatut/specql][https://img.shields.io/github/last-commit/tatut/specql.svg]]             | [[https://clojars.org/specql][https://img.shields.io/clojars/v/specql/specql.svg]]        |
+| sqlium           | [[https://github.com/PureFnOrg/sqlium][https://img.shields.io/github/last-commit/PureFnOrg/sqlium.svg]]         | [[https://clojars.org/org.purefn/sqlium][https://img.shields.io/clojars/v/org.purefn/sqlium.svg]]    |
 
 *** Database
 | Name   | Activity                                                            | Version                                                     |
