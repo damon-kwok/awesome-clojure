@@ -56,8 +56,8 @@ A list of clojure library.
 | refactor-nrepl | [[https://github.com//clojure-emacs/refactor-nrepl][https://img.shields.io/github/last-commit/clojure-emacs/refactor-nrepl.svg]] | [[https://clojars.org/refactor-nrepl][https://img.shields.io/clojars/v/refactor-nrepl.svg]]            |
 | figwheel-main  | [[https://github.com/bhauman/figwheel-main][https://img.shields.io/github/last-commit/bhauman/figwheel-main.svg]]        | [[https://clojars.org/com.bhauman/figwheel-main][https://img.shields.io/clojars/v/com.bhauman/figwheel-main.svg]] |
 | lein-codox     | [[https://github.com/weavejester/codox][https://img.shields.io/github/last-commit/weavejester/codox.svg]]            | [[https://clojars.org/lein-codox][https://img.shields.io/clojars/v/lein-codox/lein-codox.svg]]     |
-| lein-kibit     | [[https://github.com/jonase/kibit][https://img.shields.io/github/last-commit/jonase/kibit.svg]]                 | [[https://clojars.org/lein-kibit][https://img.shields.io/clojars/v/lein-kibit/lein-kibit.svg]]     |
 | lein-cljfmt    | [[https://github.com/weavejester/cljfmt][https://img.shields.io/github/last-commit/weavejester/cljfmt.svg]]           | [[https://clojars.org/lein-cljfmt][https://img.shields.io/clojars/v/lein-cljfmt/lein-cljfmt.svg]]   |
+| lein-kibit     | [[https://github.com/jonase/kibit][https://img.shields.io/github/last-commit/jonase/kibit.svg]]                 | [[https://clojars.org/lein-kibit][https://img.shields.io/clojars/v/lein-kibit/lein-kibit.svg]]     |
 | boot-cljsjs    | [[https://github.com/cljsjs/boot-cljsjs][https://img.shields.io/github/last-commit/cljsjs/boot-cljsjs.svg]]           | [[https://clojars.org/cljsjs/boot-cljsjs][https://img.shields.io/clojars/v/cljsjs/boot-cljsjs.svg]]        |
 
 *** Env / Shell
@@ -109,7 +109,7 @@ A list of clojure library.
 |---------+-------------------------------------------------------------------+--------------------------------------------------------------|
 | Lacinia | [[https://github.com/walmartlabs/lacinia][https://img.shields.io/github/last-commit/walmartlabs/lacinia.svg]] | [[https://clojars.org/com.walmartlabs/lacinia][https://img.shields.io/clojars/v/com.walmartlabs/lacinia.svg]] |
 
-*** HTML template
+*** HTML Template
 | Name      | Activity                                                         | Version                                                  |
 |-----------+------------------------------------------------------------------+----------------------------------------------------------|
 | Selmer    | [[https://github.com/yogthos/Selmer][https://img.shields.io/github/last-commit/yogthos/Selmer.svg]]     | [[https://clojars.org/selmer][https://img.shields.io/clojars/v/selmer/selmer.svg]]       |
