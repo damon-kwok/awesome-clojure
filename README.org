@@ -137,10 +137,11 @@ A list of clojure library.
 | postal | [[https://github.com/drewr/postal][https://img.shields.io/github/last-commit/drewr/postal.svg]] | [[https://clojars.org/com.draines/postal][https://img.shields.io/clojars/v/com.draines/postal.svg]] |
 
 *** Utils
-| Name     | Activity                                                         | Version                                                |
-|----------+------------------------------------------------------------------+--------------------------------------------------------|
-| medley   | [[https://github.com/weavejester/medley][https://img.shields.io/github/last-commit/weavejester/medley.svg]] | [[https://clojars.org/medley][https://img.shields.io/clojars/v/medley/medley.svg]]     |
-| clj-time | [[https://github.com/clj-time/clj-time][https://img.shields.io/github/last-commit/clj-time/clj-time.svg]]  | [[https://clojars.org/clj-time][https://img.shields.io/clojars/v/clj-time/clj-time.svg]] |
+| Name     | Activity                                                         | Version                                                 |
+|----------+------------------------------------------------------------------+---------------------------------------------------------|
+| medley   | [[https://github.com/weavejester/medley][https://img.shields.io/github/last-commit/weavejester/medley.svg]] | [[https://clojars.org/medley][https://img.shields.io/clojars/v/medley/medley.svg]]      |
+| clj-time | [[https://github.com/clj-time/clj-time][https://img.shields.io/github/last-commit/clj-time/clj-time.svg]]  | [[https://clojars.org/clj-time][https://img.shields.io/clojars/v/clj-time/clj-time.svg]]  |
+| Plumbing | [[https://github.com/plumatic/plumbing][https://img.shields.io/github/last-commit/plumatic/plumbing.svg]]  | [[https://clojars.org/prismatic/plumbing][https://img.shields.io/clojars/v/prismatic/plumbing.svg]] |
 
 *** SQL DSL
 | Name             | Activity                                                               | Version                                                |
