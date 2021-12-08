@@ -14,6 +14,23 @@ A list of clojure library.
 
 [[https://github.com/damon-kwok/awesome-clojure][Homepage]]
 
+*** Core
+| Name             | Activity                                                               | Version                                                                 |
+|------------------+------------------------------------------------------------------------+-------------------------------------------------------------------------|
+| Clojure          | [[https://github.com/clojure/clojure][https://img.shields.io/github/last-commit/clojure/clojure.svg]]          | [[https://mvnrepository.com/artifact/org.clojure/clojure][https://img.shields.io/maven-central/v/org.clojure/clojure.svg]]          |
+| ClojureScript    | [[https://github.com/clojure/clojurescript][https://img.shields.io/github/last-commit/clojure/clojurescript.svg]]    | [[https://mvnrepository.com/artifact/org.clojure/clojurescript][https://img.shields.io/maven-central/v/org.clojure/clojurescript.svg]]    |
+| Clojure-CLR      | [[https://github.com/clojure/clojure-clr][https://img.shields.io/github/last-commit/clojure/clojure-clr.svg]]      | [[https://www.nuget.org/packages/Clojure.svg][https://img.shields.io/nuget/v/clojure]]                                  |
+| core.async       | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.async.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.async][https://img.shields.io/maven-central/v/org.clojure/core.async.svg]]       |
+| core.logic       | [[https://github.com/clojure/core.logic][https://img.shields.io/github/last-commit/clojure/core.logic.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.logic][https://img.shields.io/maven-central/v/org.clojure/core.logic.svg]]       |
+| core.typed       | [[https://github.com/clojure/core.typed][https://img.shields.io/github/last-commit/clojure/core.typed.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.typed][https://img.shields.io/maven-central/v/org.clojure/core.typed.svg]]       |
+| core.match       | [[https://github.com/clojure/core.match][https://img.shields.io/github/last-commit/clojure/core.match.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.match][https://img.shields.io/maven-central/v/org.clojure/core.match.svg]]       |
+| core.cache       | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.cache.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.cache][https://img.shields.io/maven-central/v/org.clojure/core.cache.svg]]       |
+| core.memoize     | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.memoize.svg]]     | [[https://mvnrepository.com/artifact/org.clojure/core.memoize][https://img.shields.io/maven-central/v/org.clojure/core.memoize.svg]]     |
+| core.specs.alpha | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.specs.alpha.svg]] | [[https://mvnrepository.com/artifact/org.clojure/core.specs.alpha][https://img.shields.io/maven-central/v/org.clojure/core.specs.alpha.svg]] |
+| core.rrb-vector  | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.rrb-vector.svg]]  | [[https://mvnrepository.com/artifact/org.clojure/core.rrb-vector][https://img.shields.io/maven-central/v/org.clojure/core.rrb-vector.svg]]  |
+| core.unify       | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.unify.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.unify][https://img.shields.io/maven-central/v/org.clojure/core.unify.svg]]       |
+| core.contracts   | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.contracts.svg]]   | [[https://mvnrepository.com/artifact/org.clojure/core.contracts][https://img.shields.io/maven-central/v/org.clojure/core.contracts.svg]]   |
+
 *** Plugins
 | Name           | Activity                                                                     | Version                                                        |
 |----------------+------------------------------------------------------------------------------+----------------------------------------------------------------|
