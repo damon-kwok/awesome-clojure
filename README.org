@@ -142,6 +142,7 @@ A list of clojure library.
 | medley   | [[https://github.com/weavejester/medley][https://img.shields.io/github/last-commit/weavejester/medley.svg]] | [[https://clojars.org/medley][https://img.shields.io/clojars/v/medley/medley.svg]]      |
 | clj-time | [[https://github.com/clj-time/clj-time][https://img.shields.io/github/last-commit/clj-time/clj-time.svg]]  | [[https://clojars.org/clj-time][https://img.shields.io/clojars/v/clj-time/clj-time.svg]]  |
 | Plumbing | [[https://github.com/plumatic/plumbing][https://img.shields.io/github/last-commit/plumatic/plumbing.svg]]  | [[https://clojars.org/prismatic/plumbing][https://img.shields.io/clojars/v/prismatic/plumbing.svg]] |
+| Schema   | [[https://github.com/plumatic/schema][https://img.shields.io/github/last-commit/plumatic/schema.svg]]    | [[https://clojars.org/prismatic/schema][https://img.shields.io/clojars/v/prismatic/schema.svg]]   |
 
 *** SQL DSL
 | Name             | Activity                                                               | Version                                                |
