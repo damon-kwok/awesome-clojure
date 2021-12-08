@@ -34,12 +34,13 @@ A list of clojure library.
 | core.incubator   | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.incubator.svg]]   | [[https://mvnrepository.com/artifact/org.clojure/core.incubator][https://img.shields.io/maven-central/v/org.clojure/core.incubator.svg]]   |
 
 *** Editor
-| Name         | Activity                                                                    | Version                                                    |
-|--------------+-----------------------------------------------------------------------------+------------------------------------------------------------|
-| [[https://docs.cider.mx/cider/index.html][Cider]]        | [[https://github.com/clojure-emacs/cider][https://img.shields.io/github/last-commit/clojure-emacs/cider.svg]]           | [[https://melpa.org/#/cider][https://melpa.org/packages/cider-badge.svg]]                 |
-| clojure-mode | [[https://github.com/clojure-emacs/clojure-mode][https://img.shields.io/github/last-commit/clojure-emacs/clojure-mode.svg]]    | [[https://melpa.org/#/clojure-mode][https://melpa.org/packages/clojure-mode-badge.svg]]          |
-| clj-refactor | [[https://github.com/clojure-emacs/clj-refactor.el][https://img.shields.io/github/last-commit/clojure-emacs/clj-refactor.el.svg]] | [[https://melpa.org/#/clj-refactor][https://melpa.org/packages/clj-refactor-badge.svg]]          |
-| [[https://plugins.jetbrains.com/plugin/8090-cursive][Cursive]]      | [[https://github.com/cursive-ide/cursive][https://img.shields.io/github/last-commit/cursive-ide/cursive.svg]]           | [[https://plugins.jetbrains.com/plugin/8090-cursive][https://img.shields.io/jetbrains/plugin/v/8090-cursive.svg]] |
+| Name          | Activity                                                                    | Version                                                    |
+|---------------+-----------------------------------------------------------------------------+------------------------------------------------------------|
+| [[https://docs.cider.mx/cider/index.html][Cider]]         | [[https://github.com/clojure-emacs/cider][https://img.shields.io/github/last-commit/clojure-emacs/cider.svg]]           | [[https://melpa.org/#/cider][https://melpa.org/packages/cider-badge.svg]]                 |
+| clojure-mode  | [[https://github.com/clojure-emacs/clojure-mode][https://img.shields.io/github/last-commit/clojure-emacs/clojure-mode.svg]]    | [[https://melpa.org/#/clojure-mode][https://melpa.org/packages/clojure-mode-badge.svg]]          |
+| clj-refactor  | [[https://github.com/clojure-emacs/clj-refactor.el][https://img.shields.io/github/last-commit/clojure-emacs/clj-refactor.el.svg]] | [[https://melpa.org/#/clj-refactor][https://melpa.org/packages/clj-refactor-badge.svg]]          |
+| hugsql-ghosts | [[https://github.com/rkaercher/hugsql-ghosts][https://img.shields.io/github/last-commit/rkaercher/hugsql-ghosts.svg]]       | [[https://melpa.org/#/hugsql-ghosts][https://melpa.org/packages/hugsql-ghosts-badge.svg]]         |
+| [[https://plugins.jetbrains.com/plugin/8090-cursive][Cursive]]       | [[https://github.com/cursive-ide/cursive][https://img.shields.io/github/last-commit/cursive-ide/cursive.svg]]           | [[https://plugins.jetbrains.com/plugin/8090-cursive][https://img.shields.io/jetbrains/plugin/v/8090-cursive.svg]] |
 
 *** Tools
 | Name      | Activity                                                                     | Version                                                  |
