@@ -65,9 +65,13 @@ A list of clojure library.
 | Aleph | [[https://github.com/clj-commons/aleph][https://img.shields.io/github/last-commit/clj-commons/aleph.svg]] | [[https://clojars.org/aleph][https://img.shields.io/clojars/v/aleph/aleph.svg]] |
 
 *** Single Page
-| Name    | Activity                                                              | Version                                              |
-|---------+-----------------------------------------------------------------------+------------------------------------------------------|
-| reagent | [[https://github.com/reagent-project/reagent][https://img.shields.io/github/last-commit/reagent-project/reagent.svg]] | [[https://clojars.org/reagent][https://img.shields.io/clojars/v/reagent/reagent.svg]] |
+| Name             | Activity                                                              | Version                                                    |
+|------------------+-----------------------------------------------------------------------+------------------------------------------------------------|
+| reagent          | [[https://github.com/reagent-project/reagent][https://img.shields.io/github/last-commit/reagent-project/reagent.svg]] | [[https://clojars.org/reagent][https://img.shields.io/clojars/v/reagent/reagent.svg]]       |
+| re-com           | [[https://github.com/Day8/re-com][https://img.shields.io/github/last-commit/Day8/re-com.svg]]             | [[https://clojars.org/re-com][https://img.shields.io/clojars/v/re-com/re-com.svg]]         |
+| re-frame         | [[https://github.com/Day8/re-frame][https://img.shields.io/github/last-commit/Day8/re-frame.svg]]           | [[https://clojars.org/re-frame][https://img.shields.io/clojars/v/re-frame/re-frame.svg]]     |
+| re-frame-undo    | [[https://github.com/Day8/re-frame-undo][https://img.shields.io/github/last-commit/Day8/re-frame-undo.svg]]      | [[https://clojars.org/day8.re-frame/undo][https://img.shields.io/clojars/v/day8.re-frame/undo.svg]]    |
+| re-frame-http-fx | [[https://github.com/Day8/re-frame-http-fx][https://img.shields.io/github/last-commit/Day8/re-frame-http-fx.svg]]   | [[https://clojars.org/day8.re-frame/http-fx][https://img.shields.io/clojars/v/day8.re-frame/http-fx.svg]] |
 
 *** Shell/Env
 | Name     | Activity                                                          | Version                                                |
