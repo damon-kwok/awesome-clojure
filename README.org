@@ -73,10 +73,10 @@ A list of clojure library.
 | [[https://clojure2d.github.io/clojure2d/][clojure2d]] | [[https://github.com/Clojure2D/clojure2d][https://img.shields.io/github/last-commit/Clojure2D/clojure2d.svg]]         | [[https://clojars.org/clojure2d][https://img.shields.io/clojars/v/clojure2d/clojure2d.svg]]               |
 | [[https://libgdx.com/][libgdx]]    | [[https://github.com/libgdx/libgdx][https://img.shields.io/github/last-commit/libgdx/libgdx.svg]]               | [[https://search.maven.org/artifact/com.badlogicgames.gdx/gdx][https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx.svg]]   |
 | play-cljc | [[https://github.com/oakes/play-cljc][https://img.shields.io/github/last-commit/oakes/play-cljc.svg]]             | [[https://clojars.org/play-cljc][https://img.shields.io/clojars/v/play-cljc/play-cljc.svg]]               |
-| lwjgl3    | [[https://github.com/LWJGL/lwjgl3][https://img.shields.io/github/last-commit/LWJGL/lwjgl3.svg]]                | [[https://www.lwjgl.org/][https://img.shields.io/maven-central/v/org.lwjgl/lwjgl.svg]]             |
-| jme3      | [[https://github.com/jMonkeyEngine/jmonkeyengine][https://img.shields.io/github/last-commit/jMonkeyEngine/jmonkeyengine.svg]] | [[https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-core][https://img.shields.io/maven-central/v/org.jmonkeyengine/jme3-core.svg]] |
+| [[https://www.lwjgl.org/][lwjgl3]]    | [[https://github.com/LWJGL/lwjgl3][https://img.shields.io/github/last-commit/LWJGL/lwjgl3.svg]]                | [[https://mvnrepository.com/artifact/org.lwjgl/lwjgl][https://img.shields.io/maven-central/v/org.lwjgl/lwjgl.svg]]             |
+| [[https://jmonkeyengine.org/][jme3]]      | [[https://github.com/jMonkeyEngine/jmonkeyengine][https://img.shields.io/github/last-commit/jMonkeyEngine/jmonkeyengine.svg]] | [[https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-core][https://img.shields.io/maven-central/v/org.jmonkeyengine/jme3-core.svg]] |
 | jme3-clj  | [[https://github.com/jMonkeyEngine/jmonkeyengine][https://img.shields.io/github/last-commit/jMonkeyEngine/jmonkeyengine.svg]] | [[https://clojars.org/jme-clj][https://img.shields.io/clojars/v/jme-clj/jme-clj.svg]]                   |
-| [[https://arcadia-unity.github.io/][Arcadia]]   | [[https://github.com/arcadia-unity/Arcadia][https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg]]       |                                                                        |
+| [[https://arcadia-unity.github.io/][Arcadia]]   | [[https://github.com/arcadia-unity/Arcadia][https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg]]       | /                                                                      |
 
 *** Network
 | Name  | Activity                                                        | Version                                          |
@@ -112,10 +112,10 @@ A list of clojure library.
 *** HTML template
 | Name      | Activity                                                         | Version                                                  |
 |-----------+------------------------------------------------------------------+----------------------------------------------------------|
+| Selmer    | [[https://github.com/yogthos/Selmer][https://img.shields.io/github/last-commit/yogthos/Selmer.svg]]     | [[https://clojars.org/selmer][https://img.shields.io/clojars/v/selmer/selmer.svg]]       |
 | Hiccup    | [[https://github.com/weavejester/hiccup][https://img.shields.io/github/last-commit/weavejester/hiccup.svg]] | [[https://clojars.org/hiccup][https://img.shields.io/clojars/v/hiccup/hiccup.svg]]       |
 | Enlive    | [[https://github.com/cgrand/enlive][https://img.shields.io/github/last-commit/cgrand/enlive.svg]]      | [[https://clojars.org/enlive][https://img.shields.io/clojars/v/enlive/enlive.svg]]       |
 | Clostache | [[https://github.com/fhd/clostache][https://img.shields.io/github/last-commit/fhd/clostache.svg]]      | [[https://clojars.org/clostache][https://img.shields.io/clojars/v/clostache/clostache.svg]] |
-| Selmer    | [[https://github.com/yogthos/Selmer][https://img.shields.io/github/last-commit/yogthos/Selmer.svg]]     | [[https://clojars.org/selmer][https://img.shields.io/clojars/v/selmer/selmer.svg]]       |
 
 *** Single Page
 | Name             | Activity                                                              | Version                                                    |
@@ -145,14 +145,14 @@ A list of clojure library.
 *** SQL DSL
 | Name             | Activity                                                               | Version                                                |
 |------------------+------------------------------------------------------------------------+--------------------------------------------------------|
+| honeysql         | [[https://github.com/seancorfield/honeysql][https://img.shields.io/github/last-commit/seancorfield/honeysql.svg]]    | [[https://clojars.org/honeysql][https://img.shields.io/clojars/v/honeysql/honeysql.svg]] |
+| toucan           | [[https://github.com/metabase/toucan][https://img.shields.io/github/last-commit/metabase/toucan.svg]]          | [[https://clojars.org/toucan][https://img.shields.io/clojars/v/toucan/toucan.svg]]     |
+| sqlingvo         | [[https://github.com/r0man/sqlingvo][https://img.shields.io/github/last-commit/r0man/sqlingvo.svg]]           | [[https://clojars.org/sqlingvo][https://img.shields.io/clojars/v/sqlingvo/sqlingvo.svg]] |
+| walkable         | [[https://github.com/walkable-server/walkable][https://img.shields.io/github/last-commit/walkable-server/walkable.svg]] | [[https://clojars.org/walkable][https://img.shields.io/clojars/v/walkable/walkable.svg]] |
 | Korma            | [[https://github.com/korma/Korma][https://img.shields.io/github/last-commit/korma/Korma.svg]]              | [[https://clojars.org/korma][https://img.shields.io/clojars/v/korma/korma.svg]]       |
 | stch-library/sql | [[https://github.com/stch-library/sql][https://img.shields.io/github/last-commit/stch-library/sql.svg]]         | [[https://clojars.org/stch-library/sql][https://img.shields.io/clojars/v/stch-library/sql.svg]]  |
-| walkable         | [[https://github.com/walkable-server/walkable][https://img.shields.io/github/last-commit/walkable-server/walkable.svg]] | [[https://clojars.org/walkable][https://img.shields.io/clojars/v/walkable/walkable.svg]] |
 | specql           | [[https://github.com/tatut/specql][https://img.shields.io/github/last-commit/tatut/specql.svg]]             | [[https://clojars.org/specql][https://img.shields.io/clojars/v/specql/specql.svg]]     |
-| sqlingvo         | [[https://github.com/r0man/sqlingvo][https://img.shields.io/github/last-commit/r0man/sqlingvo.svg]]           | [[https://clojars.org/sqlingvo][https://img.shields.io/clojars/v/sqlingvo/sqlingvo.svg]] |
 | sqlium           | [[https://github.com/PureFnOrg/sqlium][https://img.shields.io/github/last-commit/PureFnOrg/sqlium.svg]]         | [[https://clojars.org/org.purefn/sqlium][https://img.shields.io/clojars/v/org.purefn/sqlium.svg]] |
-| toucan           | [[https://github.com/metabase/toucan][https://img.shields.io/github/last-commit/metabase/toucan.svg]]          | [[https://clojars.org/toucan][https://img.shields.io/clojars/v/toucan/toucan.svg]]     |
-| honeysql         | [[https://github.com/seancorfield/honeysql][https://img.shields.io/github/last-commit/seancorfield/honeysql.svg]]    | [[https://clojars.org/honeysql][https://img.shields.io/clojars/v/honeysql/honeysql.svg]] |
 
 *** Database
 | Name   | Activity                                                            | Version                                                     |
