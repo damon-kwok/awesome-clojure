@@ -28,12 +28,13 @@ A list of clojure library.
 |-------------+------------------------------------------------------------------+--------------------------------------------------------------|
 | lein-cljfmt | [[https://github.com/weavejester/cljfmt][https://img.shields.io/github/last-commit/weavejester/cljfmt.svg]] | [[https://clojars.org/lein-cljfmt][https://img.shields.io/clojars/v/lein-cljfmt/lein-cljfmt.svg]] |
 | riemann     | [[https://github.com/riemann/riemann][https://img.shields.io/github/last-commit/riemann/riemann.svg]]    | [[https://clojars.org/riemann][https://img.shields.io/clojars/v/riemann/riemann.svg]]         |
+| Babashka    | [[https://github.com/babashka/babashka][https://img.shields.io/github/last-commit/babashka/babashka.svg]]  | [[https://clojars.org/babashka/babashka][https://img.shields.io/clojars/v/babashka/babashka.svg]]       |
 
 *** Graphic
 | Name      | Activity                                                                  | Version                                                                |
 |-----------+---------------------------------------------------------------------------+------------------------------------------------------------------------|
 | Clojure2D | [[https://github.com/Clojure2D/clojure2d][https://img.shields.io/github/last-commit/Clojure2D/clojure2d.svg]]         | [[https://clojars.org/clojure2d][https://img.shields.io/clojars/v/clojure2d/clojure2d.svg]]               |
-| libgdx    | [[https://github.com/libgdx/libgdx][https://img.shields.io/github/last-commit/liibgdx/libgdx.svg]]              | [[https://search.maven.org/artifact/com.badlogicgames.gdx/gdx][https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx.svg]]   |
+| libgdx    | [[https://github.com/libgdx/libgdx][https://img.shields.io/github/last-commit/libgdx/libgdx.svg]]               | [[https://search.maven.org/artifact/com.badlogicgames.gdx/gdx][https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx.svg]]   |
 | play-cljc | [[https://github.com/oakes/play-cljc][https://img.shields.io/github/last-commit/oakes/play-cljc.svg]]             | [[https://clojars.org/play-cljc][https://img.shields.io/clojars/v/play-cljc/play-cljc.svg]]               |
 | lwjgl3    | [[https://github.com/LWJGL/lwjgl3][https://img.shields.io/github/last-commit/LWJGL/lwjgl3.svg]]                | [[https://www.lwjgl.org/][https://img.shields.io/maven-central/v/org.lwjgl/lwjgl.svg]]             |
 | jme3      | [[https://github.com/jMonkeyEngine/jmonkeyengine][https://img.shields.io/github/last-commit/jMonkeyEngine/jmonkeyengine.svg]] | [[https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-core][https://img.shields.io/maven-central/v/org.jmonkeyengine/jme3-core.svg]] |
