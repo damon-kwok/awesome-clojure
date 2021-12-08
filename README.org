@@ -31,6 +31,14 @@ A list of clojure library.
 | core.unify       | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.unify.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.unify][https://img.shields.io/maven-central/v/org.clojure/core.unify.svg]]       |
 | core.contracts   | [[https://github.com/clojure/core.sync][https://img.shields.io/github/last-commit/clojure/core.contracts.svg]]   | [[https://mvnrepository.com/artifact/org.clojure/core.contracts][https://img.shields.io/maven-central/v/org.clojure/core.contracts.svg]]   |
 
+*** Editor
+| Name         | Activity                                                                    | Version                                                    |
+|--------------+-----------------------------------------------------------------------------+------------------------------------------------------------|
+| cider        | [[https://github.com/clojure-emacs/cider][https://img.shields.io/github/last-commit/clojure-emacs/cider.svg]]           | [[https://melpa.org/#/cider][https://melpa.org/packages/cider-badge.svg]]                 |
+| clojure-mode | [[https://github.com/clojure-emacs/clojure-mode][https://img.shields.io/github/last-commit/clojure-emacs/clojure-mode.svg]]    | [[https://melpa.org/#/clojure-mode][https://melpa.org/packages/clojure-mode-badge.svg]]          |
+| clj-refactor | [[https://github.com/clojure-emacs/clj-refactor.el][https://img.shields.io/github/last-commit/clojure-emacs/clj-refactor.el.svg]] | [[https://melpa.org/#/clj-refactor][https://melpa.org/packages/clj-refactor-badge.svg]]          |
+| Cursive      | [[https://github.com/cursive-ide/cursive][https://img.shields.io/github/last-commit/cursive-ide/cursive.svg]]           | [[https://plugins.jetbrains.com/plugin/8090-cursive][https://img.shields.io/jetbrains/plugin/v/8090-cursive.svg]] |
+
 *** Tools
 | Name      | Activity                                                                     | Version                                                  |
 |-----------+------------------------------------------------------------------------------+----------------------------------------------------------|
