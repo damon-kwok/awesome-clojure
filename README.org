@@ -50,12 +50,13 @@ A list of clojure library.
 | [[http://lighttable.com/][LightTable]]    | [[https://github.com/LightTable][https://img.shields.io/github/last-commit/LightTable/LightTable.svg]]         | [[https://github.com/LightTable/LightTable/releases][https://img.shields.io/github/v/release/LightTable/LightTable?include_prereleases.svg]] |
 
 *** Tools
-| Name      | Activity                                                                     | Version                                                  |
-|-----------+------------------------------------------------------------------------------+----------------------------------------------------------|
-| [[https://leiningen.org/][Leiningen]] | [[https://github.com/leiningen/leiningen-chocolatey][https://img.shields.io/github/last-commit/leiningen/leiningen-chocolatey.svg]] | [[https://clojars.org/leiningen][https://img.shields.io/clojars/v/leiningen/leiningen.svg]] |
-| [[https://boot-clj.github.io/][Boot]]      | [[https://github.com/boot-clj/boot][https://img.shields.io/github/last-commit/boot-clj/boot.svg]]                  | [[https://clojars.org/boot][https://img.shields.io/clojars/v/boot/boot.svg]]           |
-| [[http://riemann.io/][Riemann]]   | [[https://github.com/riemann/riemann][https://img.shields.io/github/last-commit/riemann/riemann.svg]]                | [[https://clojars.org/riemann][https://img.shields.io/clojars/v/riemann/riemann.svg]]     |
-| [[https://babashka.org][Babashka]]  | [[https://github.com/babashka/babashka][https://img.shields.io/github/last-commit/babashka/babashka.svg]]              | [[https://clojars.org/babashka/babashka][https://img.shields.io/clojars/v/babashka/babashka.svg]]   |
+| Name      | Activity                                                                     | Version                                                                        |
+|-----------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------|
+| [[https://leiningen.org/][Leiningen]] | [[https://github.com/leiningen/leiningen-chocolatey][https://img.shields.io/github/last-commit/leiningen/leiningen-chocolatey.svg]] | [[https://clojars.org/leiningen][https://img.shields.io/clojars/v/leiningen/leiningen.svg]]                       |
+| [[https://boot-clj.github.io/][Boot]]      | [[https://github.com/boot-clj/boot][https://img.shields.io/github/last-commit/boot-clj/boot.svg]]                  | [[https://clojars.org/boot][https://img.shields.io/clojars/v/boot/boot.svg]]                                 |
+| [[http://riemann.io/][Riemann]]   | [[https://github.com/riemann/riemann][https://img.shields.io/github/last-commit/riemann/riemann.svg]]                | [[https://clojars.org/riemann][https://img.shields.io/clojars/v/riemann/riemann.svg]]                           |
+| [[https://babashka.org][Babashka]]  | [[https://github.com/babashka/babashka][https://img.shields.io/github/last-commit/babashka/babashka.svg]]              | [[https://clojars.org/babashka/babashka][https://img.shields.io/clojars/v/babashka/babashka.svg]]                         |
+| [[https://github.com/dundalek/closh][closh]]     | [[https://github.com/dundalek/closh][https://img.shields.io/github/last-commit/dundalek/closh.svg]]                 | [[https://github.com/dundalek/closh/releases][https://img.shields.io/github/v/release/dundalek/closh?include_prereleases.svg]] |
 
 *** Plugins
 | Name           | Activity                                                                   | Version                                                        |
