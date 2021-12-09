@@ -173,14 +173,16 @@ A list of clojure library.
 | [[https://cljdoc.org/d/io.forward/yaml/][yaml]]     | [[https://github.com/owainlewis/yaml][https://img.shields.io/github/last-commit/owainlewis/yaml.svg]]      | [[https://clojars.org/owainlewis/yaml][https://img.shields.io/clojars/v/owainlewis/yaml.svg]]      |
 | [[https://cljdoc.org/d/clj-commons/clj-yaml/][clj-yaml]] | [[https://github.com/clj-commons/clj-yaml][https://img.shields.io/github/last-commit/clj-commons/clj-yaml.svg]] | [[https://clojars.org/clj-commons/clj-yaml][https://img.shields.io/clojars/v/clj-commons/clj-yaml.svg]] |
 
-*** Parser
+*** doc-parser
 | Name         | Activity                                                           | Version                                                        |
 |--------------+--------------------------------------------------------------------+----------------------------------------------------------------|
 | [[https://cljdoc.org/d/markdown-clj/][markdown-clj]] | [[https://github.com/yogthos/markdown-clj][https://img.shields.io/github/last-commit/yogthos/markdown-clj.svg]] | [[https://clojars.org/markdown-clj][https://img.shields.io/clojars/v/markdown-clj/markdown-clj.svg]] |
+| [[https://github.com/bnbeckwith/orgmode][orgmode]]      | [[https://github.com/bnbeckwith/orgmode][https://img.shields.io/github/last-commit/bnbeckwith/orgmode.svg]]   | /                                                              |
 
 *** Code-Is-Data
 | Name             | Activity                                                               | Version                                                                 |
 |------------------+------------------------------------------------------------------------+-------------------------------------------------------------------------|
+| [[https://github.com/clj-commons/rewrite-clj/blob/main/doc/01-user-guide.adoc][rewrite-clj]]      | [[https://github.com/clj-commons/rewrite-clj][https://img.shields.io/github/last-commit/clj-commons/rewrite-clj.svg]]  | [[https://clojars.org/rewrite-clj][https://img.shields.io/clojars/v/rewrite-clj/rewrite-clj.svg]]            |
 | [[https://cljdoc.org/d/tupelo/][Tupelo]]           | [[https://github.com/cloojure/tupelo][https://img.shields.io/github/last-commit/cloojure/tupelo.svg]]          | [[https://clojars.org/tupelo][https://img.shields.io/clojars/v/tupelo/tupelo.svg]]                      |
 | [[https://github.com/babashka/sci][SCI]]              | [[https://github.com/babashka/sci][https://img.shields.io/github/last-commit/babashka/sci.svg]]             | [[https://clojars.org/org.babashka/sci][https://img.shields.io/clojars/v/org.babashka/sci.svg]]                   |
 | [[https://cljdoc.org/d/com.rpl/specter][Specter]]          | [[https://github.com/redplanetlabs/specter][https://img.shields.io/github/last-commit/redplanetlabs/specter.svg]]    | [[https://clojars.org/com.rpl/specter][https://img.shields.io/clojars/v/com.rpl/specter.svg]]                    |
