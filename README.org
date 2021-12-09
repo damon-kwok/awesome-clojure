@@ -146,6 +146,20 @@ A list of clojure library.
 |--------+------------------------------------------------------------+---------------------------------------------------------|
 | [[https://github.com/drewr/postal][postal]] | [[https://github.com/drewr/postal][https://img.shields.io/github/last-commit/drewr/postal.svg]] | [[https://clojars.org/com.draines/postal][https://img.shields.io/clojars/v/com.draines/postal.svg]] |
 
+*** Crypto
+| Name       | Activity                                                         | Version                                                           |
+|------------+------------------------------------------------------------------+-------------------------------------------------------------------|
+| [[https://clojure.github.io/data.codec/][data.codec]] | [[https://github.com/clojure/data.codec][https://img.shields.io/github/last-commit/clojure/data.codec.svg]] | [[https://mvnrepository.com/artifact/org.clojure/data.codec][https://img.shields.io/maven-central/v/org.clojure/data.codec.svg]] |
+
+*** Data
+| Name              | Activity                                                                | Version                                                                  |
+|-------------------+-------------------------------------------------------------------------+--------------------------------------------------------------------------|
+| [[https://clojure.github.io/data.xml/][data.xml]]          | [[https://github.com/clojure/data.xml][https://img.shields.io/github/last-commit/clojure/data.xml.svg]]          | [[https://mvnrepository.com/artifact/org.clojure/data.xml][https://img.shields.io/maven-central/v/org.clojure/data.xml.svg]]          |
+| [[https://clojure.github.io/data.zip/][data.zip]]          | [[https://github.com/clojure/data.zip][https://img.shields.io/github/last-commit/clojure/data.zip.svg]]          | [[https://mvnrepository.com/artifact/org.clojure/data.zip][https://img.shields.io/maven-central/v/org.clojure/data.zip.svg]]          |
+| [[https://clojure.github.io/data.csv/][data.csv]]          | [[https://github.com/clojure/data.csv][https://img.shields.io/github/last-commit/clojure/data.csv.svg]]          | [[https://mvnrepository.com/artifact/org.clojure/data.csv][https://img.shields.io/maven-central/v/org.clojure/data.csv.svg]]          |
+| [[https://clojure.github.io/data.generators/][data.generators]]   | [[https://github.com/clojure/data.generators][https://img.shields.io/github/last-commit/clojure/data.generators.svg]]   | [[https://mvnrepository.com/artifact/org.clojure/data.generators][https://img.shields.io/maven-central/v/org.clojure/data.generators.svg]]   |
+| [[https://clojure.github.io/data.priority-map/][data.priority-map]] | [[https://github.com/clojure/data.priority-map][https://img.shields.io/github/last-commit/clojure/data.priority-map.svg]] | [[https://mvnrepository.com/artifact/org.clojure/data.priority-map][https://img.shields.io/maven-central/v/org.clojure/data.priority-map.svg]] |
+
 *** JSON
 | Name      | Activity                                                        | Version                                                          |
 |-----------+-----------------------------------------------------------------+------------------------------------------------------------------|
