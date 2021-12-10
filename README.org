@@ -143,13 +143,14 @@ A list of clojure library.
 | [[https://github.com/fhd/clostache][Clostache]] | [[https://github.com/fhd/clostache][https://img.shields.io/github/last-commit/fhd/clostache.svg]]      | [[https://clojars.org/clostache][https://img.shields.io/clojars/v/clostache/clostache.svg]] |
 
 *** Single-Page
-| Name             | Activity                                                              | Version                                                    |
-|------------------+-----------------------------------------------------------------------+------------------------------------------------------------|
-| [[https://reagent-project.github.io][reagent]]          | [[https://github.com/reagent-project/reagent][https://img.shields.io/github/last-commit/reagent-project/reagent.svg]] | [[https://clojars.org/reagent][https://img.shields.io/clojars/v/reagent/reagent.svg]]       |
-| [[https://github.com/Day8/re-com][re-com]]           | [[https://github.com/Day8/re-com][https://img.shields.io/github/last-commit/Day8/re-com.svg]]             | [[https://clojars.org/re-com][https://img.shields.io/clojars/v/re-com/re-com.svg]]         |
-| [[https://github.com/Day8/re-frame][re-frame]]         | [[https://github.com/Day8/re-frame][https://img.shields.io/github/last-commit/Day8/re-frame.svg]]           | [[https://clojars.org/re-frame][https://img.shields.io/clojars/v/re-frame/re-frame.svg]]     |
-| [[https://github.com/Day8/re-frame-undo][re-frame-undo]]    | [[https://github.com/Day8/re-frame-undo][https://img.shields.io/github/last-commit/Day8/re-frame-undo.svg]]      | [[https://clojars.org/day8.re-frame/undo][https://img.shields.io/clojars/v/day8.re-frame/undo.svg]]    |
-| [[https://github.com/Day8/re-frame-http-fx][re-frame-http-fx]] | [[https://github.com/Day8/re-frame-http-fx][https://img.shields.io/github/last-commit/Day8/re-frame-http-fx.svg]]   | [[https://clojars.org/day8.re-frame/http-fx][https://img.shields.io/clojars/v/day8.re-frame/http-fx.svg]] |
+| Name             | Activity                                                              | Version                                                     |
+|------------------+-----------------------------------------------------------------------+-------------------------------------------------------------|
+| [[https://fulcro.fulcrologic.com/][Fulcro]]           | [[https://github.com/fulcrologic/fulcro][https://img.shields.io/github/last-commit/fulcrologic/fulcro.svg]]      | [[https://clojars.org/com.fulcrologic/fulcro][https://img.shields.io/clojars/v/com.fulcrologic/fulcro.svg]] |
+| [[https://reagent-project.github.io][reagent]]          | [[https://github.com/reagent-project/reagent][https://img.shields.io/github/last-commit/reagent-project/reagent.svg]] | [[https://clojars.org/reagent][https://img.shields.io/clojars/v/reagent/reagent.svg]]        |
+| [[https://github.com/Day8/re-com][re-com]]           | [[https://github.com/Day8/re-com][https://img.shields.io/github/last-commit/Day8/re-com.svg]]             | [[https://clojars.org/re-com][https://img.shields.io/clojars/v/re-com/re-com.svg]]          |
+| [[https://github.com/Day8/re-frame][re-frame]]         | [[https://github.com/Day8/re-frame][https://img.shields.io/github/last-commit/Day8/re-frame.svg]]           | [[https://clojars.org/re-frame][https://img.shields.io/clojars/v/re-frame/re-frame.svg]]      |
+| [[https://github.com/Day8/re-frame-undo][re-frame-undo]]    | [[https://github.com/Day8/re-frame-undo][https://img.shields.io/github/last-commit/Day8/re-frame-undo.svg]]      | [[https://clojars.org/day8.re-frame/undo][https://img.shields.io/clojars/v/day8.re-frame/undo.svg]]     |
+| [[https://github.com/Day8/re-frame-http-fx][re-frame-http-fx]] | [[https://github.com/Day8/re-frame-http-fx][https://img.shields.io/github/last-commit/Day8/re-frame-http-fx.svg]]   | [[https://clojars.org/day8.re-frame/http-fx][https://img.shields.io/clojars/v/day8.re-frame/http-fx.svg]]  |
 
 *** WebFramework
 | Name     | Activity                                                                         | Version                                                             |
@@ -157,6 +158,7 @@ A list of clojure library.
 | [[https://www.taoensso.com][Sente]]    | [[https://github.com/ptaoussanis/sente][https://img.shields.io/github/last-commit/ptaoussanis/sente.svg]]                  | [[https://clojars.org/com.taoensso/sente][https://img.shields.io/clojars/v/com.taoensso/sente.svg]]             |
 | [[http://pedestal.io/][Pedestal]] | [[https://github.com/pedestal/pedestal][https://img.shields.io/github/last-commit/pedestal/pedestal.svg]]                  | [[https://clojars.org/pedestal-service/lein-template][https://img.shields.io/clojars/v/pedestal-service/lein-template.svg]] |
 | [[http://www.luminusweb.net/][Luminus]]  | [[https://github.com/luminus-framework/luminus-template][https://img.shields.io/github/last-commit/luminus-framework/luminus-template.svg]] | [[https://clojars.org/luminus/lein-template][https://img.shields.io/clojars/v/luminus/lein-template.svg]]          |
+| [[http://hoplon.io/][Hoplon]]   | [[https://github.com/hoplon/hoplon][https://img.shields.io/github/last-commit/hoplon/hoplon.svg]]                      | [[https://clojars.org/hoplon][https://img.shields.io/clojars/v/hoplon/hoplon.svg]]                  |
 
 *** Email
 | Name   | Activity                                                   | Version                                                 |
