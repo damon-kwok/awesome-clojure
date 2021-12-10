@@ -122,6 +122,7 @@ A list of clojure library.
 | [[https://github.com/http-kit/http-kit][http-kit]]      | [[https://github.com/http-kit/http-kit][https://img.shields.io/github/last-commit/http-kit/http-kit.svg]]           | [[https://clojars.org/http-kit][https://img.shields.io/clojars/v/http-kit/http-kit.svg]]                                      |
 | [[https://github.com/weavejester/compojure][Compojure]]     | [[https://github.com/weavejester/compojure][https://img.shields.io/github/last-commit/weavejester/compojure.svg]]       | [[https://clojars.org/compojure][https://img.shields.io/clojars/v/compojure/compojure.svg]]                                    |
 | [[http://nginx-clojure.github.io/][Nginx-Clojure]] | [[https://github.com/nginx-clojure/nginx-clojure][https://img.shields.io/github/last-commit/nginx-clojure/nginx-clojure.svg]] | [[https://github.com/nginx-clojure/nginx-clojure/releases][https://img.shields.io/github/v/release/nginx-clojure/nginx-clojure?include_prereleases.svg]] |
+| [[https://github.com/AppsFlyer/donkey][Donkey]]        | [[https://github.com/AppsFlyer/donkey][https://img.shields.io/github/last-commit/AppsFlyer/donkey.svg]]            | [[https://clojars.org/com.appsflyer/donkey][https://img.shields.io/clojars/v/com.appsflyer/donkey.svg]]                                   |
 
 *** RESTful-API
 | Name          | Activity                                                                | Version                                                    |
@@ -249,7 +250,7 @@ A list of clojure library.
 *** Databbase
 | Name | Activity                                                            | Version                                                |
 |------+---------------------------------------------------------------------+--------------------------------------------------------|
-| [[http://www.h2database.com/html/main.html][H2]]   | [[https://github.com/h2database/h2database][https://img.shields.io/github/last-commit/h2database/h2database.svg]] | [[https://clojars.org/com.h2database/h2][https://img.shields.io/clojars/v/com.h2database/h2.svg]] |
+| [[https://h2database.com/][H2]]   | [[https://github.com/h2database/h2database][https://img.shields.io/github/last-commit/h2database/h2database.svg]] | [[https://clojars.org/com.h2database/h2][https://img.shields.io/clojars/v/com.h2database/h2.svg]] |
 
 *** Database Driver
 | Name      | Activity                                                            | Version                                                          |
@@ -274,9 +275,10 @@ A list of clojure library.
 | [[https://cljdoc.xyz/d/tongue/tongue/CURRENT][Tongue]] | [[https://github.com/tonsky/tongue][https://img.shields.io/github/last-commit/tonsky/tongue.svg]] | [[https://clojars.org/tongue][https://img.shields.io/clojars/v/tongue/tongue.svg]] |
 
 *** Logging
-| Name   | Activity                                                         | Version                                                        |
-|--------+------------------------------------------------------------------+----------------------------------------------------------------|
-| [[https://github.com/ptaoussanis/timbre][Timbre]] | [[https://github.com/ptaoussanis/timbre][https://img.shields.io/github/last-commit/ptaoussanis/timbre.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/timbre][https://img.shields.io/maven-central/v/com.taoensso/timbre.svg]] |
+| Name    | Activity                                                                   | Version                                                        |
+|---------+----------------------------------------------------------------------------+----------------------------------------------------------------|
+| [[https://github.com/ptaoussanis/timbre][Timbre]]  | [[https://github.com/ptaoussanis/timbre][https://img.shields.io/github/last-commit/ptaoussanis/timbre.svg]]           | [[https://mvnrepository.com/artifact/com.taoensso/timbre][https://img.shields.io/maven-central/v/com.taoensso/timbre.svg]] |
+| [[https://cambium-clojure.github.io/][Cambium]] | [[https://github.com/cambium-clojure/cambium.core][https://img.shields.io/github/last-commit/cambium-clojure/cambium.core.svg]] | [[https://clojars.org/cambium/cambium.core][https://img.shields.io/clojars/v/cambium/cambium.core.svg]]      |
 
 *** Testing
 | Name      | Activity                                                          | Version                                                            |
