@@ -172,9 +172,10 @@ A list of clojure library.
 |------------+------------------------------------------------------------------+-------------------------------------------------------------------|
 | [[https://clojure.github.io/data.codec/][data.codec]] | [[https://github.com/clojure/data.codec][https://img.shields.io/github/last-commit/clojure/data.codec.svg]] | [[https://mvnrepository.com/artifact/org.clojure/data.codec][https://img.shields.io/maven-central/v/org.clojure/data.codec.svg]] |
 
-*** DataStruct
+*** Data Structure
 | \*  | [[https://clojure.github.io/data.generators/][data.generators]]   | [[https://github.com/clojure/data.generators][https://img.shields.io/github/last-commit/clojure/data.generators.svg]]   | [[https://mvnrepository.com/artifact/org.clojure/data.generators][https://img.shields.io/maven-central/v/org.clojure/data.generators.svg]]   |
 | Map | [[https://clojure.github.io/data.priority-map/][data.priority-map]] | [[https://github.com/clojure/data.priority-map][https://img.shields.io/github/last-commit/clojure/data.priority-map.svg]] | [[https://mvnrepository.com/artifact/org.clojure/data.priority-map][https://img.shields.io/maven-central/v/org.clojure/data.priority-map.svg]] |
+| \*  | [[https://github.com/clojurewerkz/balagan][Balagan]]           | [[https://github.com/clojurewerkz/balagan][https://img.shields.io/github/last-commit/clojurewerkz/balagan.svg]]      | [[https://mvnrepository.com/artifact/clojurewerkz/balagan][https://img.shields.io/maven-central/v/clojurewerkz/balagan.svg]]          |
 
 *** Serialization
 | Name  | Active                                                          | Version                                                       |
@@ -279,3 +280,7 @@ A list of clojure library.
 | [[https://cljdoc.org/d/midje/midje][Midje]]     | [[https://github.com/marick/Midje][https://img.shields.io/github/last-commit/marick/Midje.svg]]        | [[https://clojars.org/midje][https://img.shields.io/clojars/v/midje/midje.svg]]                   |
 | [[https://cljdoc.org/d/cloverage/cloverage][cloverage]] | [[https://github.com/cloverage/cloverage][https://img.shields.io/github/last-commit/cloverage/cloverage.svg]] | [[https://clojars.org/lein-cloverage][https://img.shields.io/clojars/v/lein-cloverage/lein-cloverage.svg]] |
 
+*** Profile
+| Name  | Active                                                          | Version                                                       |
+|-------+-----------------------------------------------------------------+---------------------------------------------------------------|
+| [[https://github.com/ptaoussanis/tufte][Tufte]] | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/maven-central/v/com.taoensso/tufte.svg]] |
