@@ -264,9 +264,10 @@ A list of clojure library.
 | [[https://github.com/noprompt/garden][Garden]] | [[https://github.com/noprompt/garden][https://img.shields.io/github/last-commit/noprompt/garden.svg]] | [[https://clojars.org/garden][https://img.shields.io/clojars/v/garden/garden.svg]] |
 
 *** i18n
-| Name   | Active                                                      | Version                                            |
-|--------+-------------------------------------------------------------+----------------------------------------------------|
-| [[https://cljdoc.xyz/d/tongue/tongue/CURRENT][Tongue]] | [[https://github.com/tonsky/tongue][https://img.shields.io/github/last-commit/tonsky/tongue.svg]] | [[https://clojars.org/tongue][https://img.shields.io/clojars/v/tongue/tongue.svg]] |
+| Name   | Active                                                          | Version                                                       |
+|--------+-----------------------------------------------------------------+---------------------------------------------------------------|
+| [[https://cljdoc.xyz/d/tongue/tongue/CURRENT][Tongue]] | [[https://github.com/tonsky/tongue][https://img.shields.io/github/last-commit/tonsky/tongue.svg]]     | [[https://clojars.org/tongue][https://img.shields.io/clojars/v/tongue/tongue.svg]]            |
+| [[ptaoussanis.github.io/tower/][Tower]]  | [[https://github.com/ptaoussanis/tower][https://img.shields.io/github/last-commit/ptaoussanis/tower.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/tower][https://img.shields.io/maven-central/v/com.taoensso/tower.svg]] |
 
 *** Logging
 | Name    | Active                                                                     | Version                                                   |
