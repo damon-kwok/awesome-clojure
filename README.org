@@ -151,10 +151,10 @@ A list of clojure library.
 | [[https://github.com/AppsFlyer/donkey][Donkey]]        | [[https://github.com/AppsFlyer/donkey][https://img.shields.io/github/last-commit/AppsFlyer/donkey.svg]]            | [[https://clojars.org/com.appsflyer/donkey][https://img.shields.io/clojars/v/com.appsflyer/donkey.svg]]                                   |
 
 *** RESTful-API
-| Name          | Active                                                                  | Version                                                    |
-|---------------+-------------------------------------------------------------------------+------------------------------------------------------------|
-| [[https://github.com/metosin/compojure-api][compojure-api]] | [[https://github.com/metosin/compojure-api][https://img.shields.io/github/last-commit/weavejester/compojure-api.svg]] | [[https://clojars.org/metosin/compojure-api][https://img.shields.io/clojars/v/metosin/compojure-api.svg]] |
-| [[https://www.juxt.land/yada/manual/index.html][Yada]]          | [[https://github.com/juxt/yada][https://img.shields.io/github/last-commit/juxt/yada.svg]]                 | [[https://clojars.org/yada][https://img.shields.io/clojars/v/yada/yada.svg]]             |
+| Name          | Active                                                              | Version                                                    |
+|---------------+---------------------------------------------------------------------+------------------------------------------------------------|
+| [[https://github.com/metosin/compojure-api][compojure-api]] | [[https://github.com/metosin/compojure-api][https://img.shields.io/github/last-commit/metosin/compojure-api.svg]] | [[https://clojars.org/metosin/compojure-api][https://img.shields.io/clojars/v/metosin/compojure-api.svg]] |
+| [[https://www.juxt.land/yada/manual/index.html][Yada]]          | [[https://github.com/juxt/yada][https://img.shields.io/github/last-commit/juxt/yada.svg]]             | [[https://clojars.org/yada][https://img.shields.io/clojars/v/yada/yada.svg]]             |
 
 *** GraphQL-API
 | Name     | Active                                                              | Version                                                      |
