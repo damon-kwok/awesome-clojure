@@ -240,16 +240,16 @@ A list of clojure library.
 | [[http://www.onyxplatform.org/][Onyx]]   | [[https://github.com/onyx-platform/onyx][https://img.shields.io/github/last-commit/onyx-platform/onyx.svg]] | [[https://clojars.org/org.onyxplatform/onyx][https://img.shields.io/clojars/v/org.onyxplatform/onyx.svg]]           |
 
 *** Code-Is-Data
-| Name             | Active                                                                 | Version                                                                 |
-|------------------+------------------------------------------------------------------------+-------------------------------------------------------------------------|
-| [[https://github.com/clj-commons/rewrite-clj/blob/main/doc/01-user-guide.adoc][rewrite-clj]]      | [[https://github.com/clj-commons/rewrite-clj][https://img.shields.io/github/last-commit/clj-commons/rewrite-clj.svg]]  | [[https://clojars.org/rewrite-clj][https://img.shields.io/clojars/v/rewrite-clj/rewrite-clj.svg]]            |
-| [[https://cljdoc.org/d/tupelo/][Tupelo]]           | [[https://github.com/cloojure/tupelo][https://img.shields.io/github/last-commit/cloojure/tupelo.svg]]          | [[https://clojars.org/tupelo][https://img.shields.io/clojars/v/tupelo/tupelo.svg]]                      |
-| [[https://github.com/babashka/sci][SCI]]              | [[https://github.com/babashka/sci][https://img.shields.io/github/last-commit/babashka/sci.svg]]             | [[https://clojars.org/org.babashka/sci][https://img.shields.io/clojars/v/org.babashka/sci.svg]]                   |
-| [[https://cljdoc.org/d/com.rpl/specter][Specter]]          | [[https://github.com/redplanetlabs/specter][https://img.shields.io/github/last-commit/redplanetlabs/specter.svg]]    | [[https://clojars.org/com.rpl/specter][https://img.shields.io/clojars/v/com.rpl/specter.svg]]                    |
-| [[https://github.com/clojure/java.data][java.data]]        | [[https://github.com/clojure/java.data][https://img.shields.io/github/last-commit/clojure/java.data.svg]]        | [[https://mvnrepository.com/artifact/org.clojure/java.data][https://img.shields.io/maven-central/v/org.clojure/java.data.svg]]        |
-| [[https://github.com/clojure/core.specs.alpha][core.specs.alpha]] | [[https://github.com/clojure/core.specs.alpha][https://img.shields.io/github/last-commit/clojure/core.specs.alpha.svg]] | [[https://mvnrepository.com/artifact/org.clojure/core.specs.alpha][https://img.shields.io/maven-central/v/org.clojure/core.specs.alpha.svg]] |
-| [[https://github.com/clojure/spec.alpha][spec.alpha]]       | [[https://github.com/clojure/spec.alpha][https://img.shields.io/github/last-commit/clojure/spec.alpha.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/spec.alpha][https://img.shields.io/maven-central/v/org.clojure/spec.alpha.svg]]       |
-| [[https://github.com/clojure/spec.alpha2][alpha.spec]]       | [[https://github.com/clojure/spec.alpha2][https://img.shields.io/github/last-commit/clojure/spec.alpha2.svg]]      | [[https://mvnrepository.com/artifact/org.clojure/spec.alpha2][https://img.shields.io/maven-central/v/org.clojure/spec.alpha2.svg]]      |
+| Name             | Active                                                                 | Version                                                                          |
+|------------------+------------------------------------------------------------------------+----------------------------------------------------------------------------------|
+| [[https://github.com/clj-commons/rewrite-clj/blob/main/doc/01-user-guide.adoc][rewrite-clj]]      | [[https://github.com/clj-commons/rewrite-clj][https://img.shields.io/github/last-commit/clj-commons/rewrite-clj.svg]]  | [[https://clojars.org/rewrite-clj][https://img.shields.io/clojars/v/rewrite-clj/rewrite-clj.svg]]                     |
+| [[https://cljdoc.org/d/tupelo/][Tupelo]]           | [[https://github.com/cloojure/tupelo][https://img.shields.io/github/last-commit/cloojure/tupelo.svg]]          | [[https://clojars.org/tupelo][https://img.shields.io/clojars/v/tupelo/tupelo.svg]]                               |
+| [[https://github.com/babashka/sci][SCI]]              | [[https://github.com/babashka/sci][https://img.shields.io/github/last-commit/babashka/sci.svg]]             | [[https://clojars.org/org.babashka/sci][https://img.shields.io/clojars/v/org.babashka/sci.svg]]                            |
+| [[https://cljdoc.org/d/com.rpl/specter][Specter]]          | [[https://github.com/redplanetlabs/specter][https://img.shields.io/github/last-commit/redplanetlabs/specter.svg]]    | [[https://clojars.org/com.rpl/specter][https://img.shields.io/clojars/v/com.rpl/specter.svg]]                             |
+| [[https://github.com/clojure/java.data][java.data]]        | [[https://github.com/clojure/java.data][https://img.shields.io/github/last-commit/clojure/java.data.svg]]        | [[https://mvnrepository.com/artifact/org.clojure/java.data][https://img.shields.io/maven-central/v/org.clojure/java.data.svg]]                 |
+| [[https://github.com/clojure/core.specs.alpha][core.specs.alpha]] | [[https://github.com/clojure/core.specs.alpha][https://img.shields.io/github/last-commit/clojure/core.specs.alpha.svg]] | [[https://mvnrepository.com/artifact/org.clojure/core.specs.alpha][https://img.shields.io/maven-central/v/org.clojure/core.specs.alpha.svg]]          |
+| [[https://github.com/clojure/spec.alpha][spec.alpha]]       | [[https://github.com/clojure/spec.alpha][https://img.shields.io/github/last-commit/clojure/spec.alpha.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/spec.alpha][https://img.shields.io/maven-central/v/org.clojure/spec.alpha.svg]]                |
+| [[https://github.com/clojure/spec-alpha2][alpha.spec]]       | [[https://github.com/clojure/spec.alpha2][https://img.shields.io/github/last-commit/clojure/spec.alpha2.svg]]      | [[https://clojars.org/org.clojars.typedclojure-clojars/alpha.spec][https://img.shields.io/clojars/v/org.clojars.typedclojure-clojars/alpha.spec.svg]] |
 
 *** Utils
 | Name           | Active                                                                 | Version                                                            |
@@ -266,10 +266,10 @@ A list of clojure library.
 | [[https://github.com/noprompt/garden][Garden]] | [[https://github.com/noprompt/garden][https://img.shields.io/github/last-commit/noprompt/garden.svg]] | [[https://clojars.org/garden][https://img.shields.io/clojars/v/garden/garden.svg]] |
 
 *** i18n
-| Name   | Active                                                          | Version                                                       |
-|--------+-----------------------------------------------------------------+---------------------------------------------------------------|
-| [[https://cljdoc.xyz/d/tongue/tongue/CURRENT][Tongue]] | [[https://github.com/tonsky/tongue][https://img.shields.io/github/last-commit/tonsky/tongue.svg]]     | [[https://clojars.org/tongue][https://img.shields.io/clojars/v/tongue/tongue.svg]]            |
-| [[ptaoussanis.github.io/tower/][Tower]]  | [[https://github.com/ptaoussanis/tower][https://img.shields.io/github/last-commit/ptaoussanis/tower.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/tower][https://img.shields.io/maven-central/v/com.taoensso/tower.svg]] |
+| Name   | Active                                                          | Version                                                 |
+|--------+-----------------------------------------------------------------+---------------------------------------------------------|
+| [[https://cljdoc.xyz/d/tongue/tongue/CURRENT][Tongue]] | [[https://github.com/tonsky/tongue][https://img.shields.io/github/last-commit/tonsky/tongue.svg]]     | [[https://clojars.org/tongue][https://img.shields.io/clojars/v/tongue/tongue.svg]]      |
+| [[ptaoussanis.github.io/tower/][Tower]]  | [[https://github.com/ptaoussanis/tower][https://img.shields.io/github/last-commit/ptaoussanis/tower.svg]] | [[https://clojars.org/com.taoensso/tower][https://img.shields.io/clojars/v/com.taoensso/tower.svg]] |
 
 *** Logging
 | Name    | Active                                                                     | Version                                                   |
@@ -284,8 +284,8 @@ A list of clojure library.
 | [[https://cljdoc.org/d/cloverage/cloverage][cloverage]] | [[https://github.com/cloverage/cloverage][https://img.shields.io/github/last-commit/cloverage/cloverage.svg]] | [[https://clojars.org/lein-cloverage][https://img.shields.io/clojars/v/lein-cloverage/lein-cloverage.svg]] |
 
 *** Profile
-| Name   | Active                                                          | Version                                                       |
-|--------+-----------------------------------------------------------------+---------------------------------------------------------------|
-| [[https://github.com/ptaoussanis/tufte][Tufte]]  | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/maven-central/v/com.taoensso/tufte.svg]] |
-| [[https://github.com/jstepien/flames][Flames]] | [[https://img.shields.io/github/last-commit/jstepien/flames.svg]]   | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/clojars/v/flames.svg]]                   |
+| Name   | Active                                                          | Version                                                 |
+|--------+-----------------------------------------------------------------+---------------------------------------------------------|
+| [[https://github.com/ptaoussanis/tufte][Tufte]]  | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]] | [[https://clojars.org/com.taoensso/tufte][https://img.shields.io/clojars/v/com.taoensso/tufte.svg]] |
+| [[https://github.com/jstepien/flames][Flames]] | [[https://img.shields.io/github/last-commit/jstepien/flames.svg]]   | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/clojars/v/flames.svg]]             |
 
