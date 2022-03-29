@@ -284,6 +284,8 @@ A list of clojure library.
 | [[https://cljdoc.org/d/cloverage/cloverage][cloverage]] | [[https://github.com/cloverage/cloverage][https://img.shields.io/github/last-commit/cloverage/cloverage.svg]] | [[https://clojars.org/lein-cloverage][https://img.shields.io/clojars/v/lein-cloverage/lein-cloverage.svg]] |
 
 *** Profile
-| Name  | Active                                                          | Version                                                       |
-|-------+-----------------------------------------------------------------+---------------------------------------------------------------|
-| [[https://github.com/ptaoussanis/tufte][Tufte]] | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/maven-central/v/com.taoensso/tufte.svg]] |
+| Name   | Active                                                          | Version                                                       |
+|--------+-----------------------------------------------------------------+---------------------------------------------------------------|
+| [[https://github.com/ptaoussanis/tufte][Tufte]]  | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]] | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/maven-central/v/com.taoensso/tufte.svg]] |
+| [[https://github.com/jstepien/flames][Flames]] | [[https://img.shields.io/github/last-commit/jstepien/flames.svg]]   | [[https://mvnrepository.com/artifact/com.taoensso/tufte][https://img.shields.io/clojars/v/flames.svg]]                   |
+
