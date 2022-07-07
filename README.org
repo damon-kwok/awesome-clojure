@@ -309,10 +309,10 @@ A list of clojure library.
 | [[https://cljdoc.org/d/cloverage/cloverage][cloverage]] | [[https://github.com/cloverage/cloverage][https://img.shields.io/github/last-commit/cloverage/cloverage.svg]] | [[https://clojars.org/lein-cloverage][https://img.shields.io/clojars/v/lein-cloverage/lein-cloverage.svg]] |
 
 *** Profile
-| Name         | Active                                                                | Version                                                             |
-|--------------+-----------------------------------------------------------------------+---------------------------------------------------------------------|
-| [[https://github.com/ptaoussanis/tufte][Tufte]]        | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]]       | [[https://clojars.org/com.taoensso/tufte][https://img.shields.io/clojars/v/com.taoensso/tufte.svg]]             |
-| [[https://github.com/jstepien/flames][Flames]]       | [[https://github.com/jstepien/flames][Flames][https://img.shields.io/github/last-commit/jstepien/flames.svg]] | [[https://clojars.org/flames][https://img.shields.io/clojars/v/flames.svg]]                         |
-| [[https://github.com/hugoduncan/criterium][Criterium]]    | [[https://github.com/hugoduncan/criterium][https://img.shields.io/github/last-commit/hugoduncan/criterium.svg]]    | [[https://clojars.org/criterium][https://img.shields.io/clojars/v/criterium.svg]]                      |
-| [[https://github.com/ilevd/compile-time][compile-time]] | [[https://github.com/ilevd/compile-time][https://img.shields.io/github/last-commit/ilevd/compile-time.svg]]      | [[https://clojars.org/org.clojars.ilevd/compile-time][https://img.shields.io/clojars/v/org.clojars.ilevd/compile-time.svg]] |
+| Name         | Active                                                             | Version                                                             |
+|--------------+--------------------------------------------------------------------+---------------------------------------------------------------------|
+| [[https://github.com/ptaoussanis/tufte][Tufte]]        | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]]    | [[https://clojars.org/com.taoensso/tufte][https://img.shields.io/clojars/v/com.taoensso/tufte.svg]]             |
+| [[https://github.com/jstepien/flames][Flames]]       | [[https://github.com/jstepien/flames][https://img.shields.io/github/last-commit/jstepien/flames.svg]]      | [[https://clojars.org/flames][https://img.shields.io/clojars/v/flames.svg]]                         |
+| [[https://github.com/hugoduncan/criterium][Criterium]]    | [[https://github.com/hugoduncan/criterium][https://img.shields.io/github/last-commit/hugoduncan/criterium.svg]] | [[https://clojars.org/criterium][https://img.shields.io/clojars/v/criterium.svg]]                      |
+| [[https://github.com/ilevd/compile-time][compile-time]] | [[https://github.com/ilevd/compile-time][https://img.shields.io/github/last-commit/ilevd/compile-time.svg]]   | [[https://clojars.org/org.clojars.ilevd/compile-time][https://img.shields.io/clojars/v/org.clojars.ilevd/compile-time.svg]] |
 
