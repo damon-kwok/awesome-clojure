@@ -19,7 +19,7 @@ A list of clojure library.
 [[https://jafingerhut.github.io/][Clojure*Cheatsheets]]
 
 *** Core
-| Name             | Active                                                                 | Version                                                                 |
+| Name             | Activity                                                               | Version                                                                 |
 |------------------+------------------------------------------------------------------------+-------------------------------------------------------------------------|
 | [[https://clojure.org/][Clojure]]          | [[https://github.com/clojure/clojure][https://img.shields.io/github/last-commit/clojure/clojure.svg]]          | [[https://mvnrepository.com/artifact/org.clojure/clojure][https://img.shields.io/maven-central/v/org.clojure/clojure.svg]]          |
 | [[https://clojurescript.org/][ClojureScript]]    | [[https://github.com/clojure/clojurescript][https://img.shields.io/github/last-commit/clojure/clojurescript.svg]]    | [[https://mvnrepository.com/artifact/org.clojure/clojurescript][https://img.shields.io/maven-central/v/org.clojure/clojurescript.svg]]    |
@@ -38,7 +38,7 @@ A list of clojure library.
 | [[https://github.com/clojure/core.incubator][core.incubator]]   | [[https://github.com/clojure/core.incubator][https://img.shields.io/github/last-commit/clojure/core.incubator.svg]]   | [[https://mvnrepository.com/artifact/org.clojure/core.incubator][https://img.shields.io/maven-central/v/org.clojure/core.incubator.svg]]   |
 
 *** [[https://nrepl.org/nrepl/usage/server.html#embedding-nrepl][nREPL]] ([[https://nrepl.org/nrepl/about/history.html][history]])
-| Name                    | Active                                                                   | Version                                                            |
+| Name                    | Activity                                                                 | Version                                                            |
 |-------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------|
 | [[https://nrepl.org/][nREPL]] ([[https://nrepl.org/nrepl/usage/server.html#embedding-nrepl][embedding]])       | [[https://github.com/nrepl/nREPL][https://img.shields.io/github/last-commit/nrepl/nREPL.svg]]                | [[https://clojars.org/nrepl][https://img.shields.io/clojars/v/nrepl/nrepl.svg]]                   |
 | [[https://docs.cider.mx/cider-nrepl/][cider-nrepl]] ([[https://docs.cider.mx/cider-nrepl/usage.html#via-embedding-nrepl-in-your-application][embedding]]) | [[https://github.com/clojure-emacs/cider-nrepl][https://img.shields.io/github/last-commit/clojure-emacs/cider-nrepl.svg]]  | [[https://clojars.org/cider/cider-nrepl][https://img.shields.io/clojars/v/cider/cider-nrepl.svg]]             |
@@ -47,7 +47,7 @@ A list of clojure library.
 | [[https://github.com/clojure/tools.nrepl][tools.nrepl]]             | [[https://github.com/clojure/tools.nrepl][https://img.shields.io/github/last-commit/clojure/tools.nrepl.svg]]        | [[https://mvnrepository.com/artifact/org.clojure/tools.nrepl][https://img.shields.io/maven-central/v/org.clojure/tools.nrepl.svg]] |
 
 *** Editor
-| Name          | Active                                                                      | Version                                                                               |
+| Name          | Activity                                                                    | Version                                                                               |
 |---------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------------|
 | [[https://docs.cider.mx/cider/index.html][Cider]]         | [[https://github.com/clojure-emacs/cider][https://img.shields.io/github/last-commit/clojure-emacs/cider.svg]]           | [[https://melpa.org/#/cider][https://melpa.org/packages/cider-badge.svg]]                                            |
 | [[https://github.com/clojure-emacs/clojure-mode][clojure-mode]]  | [[https://github.com/clojure-emacs/clojure-mode][https://img.shields.io/github/last-commit/clojure-emacs/clojure-mode.svg]]    | [[https://melpa.org/#/clojure-mode][https://melpa.org/packages/clojure-mode-badge.svg]]                                     |
@@ -60,7 +60,7 @@ A list of clojure library.
 | [[http://lighttable.com/][LightTable]]    | [[https://github.com/LightTable][https://img.shields.io/github/last-commit/LightTable/LightTable.svg]]         | [[https://github.com/LightTable/LightTable/releases][https://img.shields.io/github/v/release/LightTable/LightTable?include_prereleases.svg]] |
 
 *** DevTools
-| Name            | Active                                                                       | Version                                                                        |
+| Name            | Activity                                                                     | Version                                                                        |
 |-----------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------|
 | [[https://leiningen.org/][Leiningen]]       | [[https://github.com/leiningen/leiningen-chocolatey][https://img.shields.io/github/last-commit/leiningen/leiningen-chocolatey.svg]] | [[https://clojars.org/leiningen][https://img.shields.io/clojars/v/leiningen/leiningen.svg]]                       |
 | [[https://boot-clj.github.io/][Boot]]            | [[https://github.com/boot-clj/boot][https://img.shields.io/github/last-commit/boot-clj/boot.svg]]                  | [[https://clojars.org/boot][https://img.shields.io/clojars/v/boot/boot.svg]]                                 |
@@ -77,7 +77,7 @@ A list of clojure library.
 | [[https://github.com/nextjournal/clerk-slideshow][clerk-slideshow]] |                                                                              |                                                                                |
 
 *** Plugins
-| Name                  | Active                                                                     | Version                                                              |
+| Name                  | Activity                                                                   | Version                                                              |
 |-----------------------+----------------------------------------------------------------------------+----------------------------------------------------------------------|
 | [[https://docs.cider.mx/cider-nrepl/][cider-nrepl]]           | [[https://github.com/clojure-emacs/cider-nrepl][https://img.shields.io/github/last-commit/clojure-emacs/cider-nrepl.svg]]    | [[https://clojars.org/cider/cider-nrepl][https://img.shields.io/clojars/v/cider/cider-nrepl.svg]]               |
 | [[https://github.com//clojure-emacs/refactor-nrepl][refactor-nrepl]]        | [[https://github.com//clojure-emacs/refactor-nrepl][https://img.shields.io/github/last-commit/clojure-emacs/refactor-nrepl.svg]] | [[https://clojars.org/refactor-nrepl][https://img.shields.io/clojars/v/refactor-nrepl.svg]]                  |
@@ -93,7 +93,7 @@ A list of clojure library.
 | [[https://github.com/clj-depend/clj-depend][clj-depend]]            | [[https://github.com/clj-depend/clj-depend][https://img.shields.io/github/last-commit/clj-depend/clj-depend.svg]]        | [[https://clojars.org/com.fabiodomingues/clj-depend][https://img.shields.io/clojars/v/com.fabiodomingues/clj-depend.svg]]   |
 
 *** Code-Is-Data
-| Name                 | Active                                                                 | Version                                                                          |
+| Name                 | Activity                                                               | Version                                                                          |
 |----------------------+------------------------------------------------------------------------+----------------------------------------------------------------------------------|
 | [[https://github.com/clj-commons/rewrite-clj/blob/main/doc/01-user-guide.adoc][rewrite-clj]]          | [[https://github.com/clj-commons/rewrite-clj][https://img.shields.io/github/last-commit/clj-commons/rewrite-clj.svg]]  | [[https://clojars.org/rewrite-clj][https://img.shields.io/clojars/v/rewrite-clj/rewrite-clj.svg]]                     |
 | [[https://cljdoc.org/d/tupelo/][Tupelo]]               | [[https://github.com/cloojure/tupelo][https://img.shields.io/github/last-commit/cloojure/tupelo.svg]]          | [[https://clojars.org/tupelo][https://img.shields.io/clojars/v/tupelo/tupelo.svg]]                               |
@@ -107,14 +107,14 @@ A list of clojure library.
 | [[https://github.com/clojure/spec-alpha2][alpha.spec]]           | [[https://github.com/clojure/spec-alpha2][https://img.shields.io/github/last-commit/clojure/spec-alpha2.svg]]      | [[https://clojars.org/org.clojars.typedclojure-clojars/alpha.spec][https://img.shields.io/clojars/v/org.clojars.typedclojure-clojars/alpha.spec.svg]] |
 
 *** Env / Shell
-| Name     | Active                                                            | Version                                                |
+| Name     | Activity                                                          | Version                                                |
 |----------+-------------------------------------------------------------------+--------------------------------------------------------|
 | [[https://github.com/weavejester/environ][environ]]  | [[https://github.com/weavejester/environ][https://img.shields.io/github/last-commit/weavejester/environ.svg]] | [[https://clojars.org/environ][https://img.shields.io/clojars/v/environ/environ.svg]]   |
 | [[https://github.com/yogthos/config][config]]   | [[https://github.com/yogthos/config][https://img.shields.io/github/last-commit/yogthos/config.svg]]      | [[https://clojars.org/yogthos/config][https://img.shields.io/clojars/v/yogthos/config.svg]]    |
 | [[https://github.com/clj-jgit/clj-jgit][clj-jgit]] | [[https://github.com/clj-jgit/clj-jgit][https://img.shields.io/github/last-commit/clj-jgit/clj-jgit.svg]]   | [[https://clojars.org/clj-jgit][https://img.shields.io/clojars/v/clj-jgit/clj-jgit.svg]] |
 
 *** Graphic / GameEngine
-| Name      | Active                                                                    | Version                                                                               |
+| Name      | Activity                                                                  | Version                                                                               |
 |-----------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------|
 | [[https://github.com/aysylu/loom][loom]]      | [[https://github.com/aysylu/loom][https://img.shields.io/github/last-commit/aysylu/loom.svg]]                 | [[https://clojars.org/aysylu/loom][https://img.shields.io/clojars/v/aysylu/loom.svg]]                                      |
 | [[https://libgdx.com/][libgdx]]    | [[https://github.com/libgdx/libgdx][https://img.shields.io/github/last-commit/libgdx/libgdx.svg]]               | [[https://search.maven.org/artifact/com.badlogicgames.gdx/gdx][https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx.svg]]                  |
@@ -124,8 +124,13 @@ A list of clojure library.
 | [[https://github.com/ertugrulcetin/jme-clj][jme-clj]]   | [[https://github.com/ertugrulcetin/jme-clj][https://img.shields.io/github/last-commit/ertugrulcetin/jme-clj.svg]]       | [[https://clojars.org/jme-clj][https://img.shields.io/clojars/v/jme-clj/jme-clj.svg]]                                  |
 | [[https://arcadia-unity.github.io/][Arcadia]]   | [[https://github.com/arcadia-unity/Arcadia][https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg]]       | [[https://github.com/arcadia-unity/Arcadia/releases][https://img.shields.io/github/v/release/arcadia-unity/Arcadia?include_prereleases.svg]] |
 
+*** Chart
+| Name     | Activity                                                        | Version                                                |
+|----------+-----------------------------------------------------------------+--------------------------------------------------------|
+| [[https://github.com/incanter/incanter][Incanter]] | [[https://github.com/incanter/incanter][https://img.shields.io/github/last-commit/incanter/incanter.svg]] | [[https://clojars.org/incanter][https://img.shields.io/clojars/v/incanter/incanter.svg]] |
+
 *** GUI
-| Name      | Active                                                               | Version                                                          |
+| Name      | Activity                                                             | Version                                                          |
 |-----------+----------------------------------------------------------------------+------------------------------------------------------------------|
 | [[https://github.com/phronmophobic/membrane][Membrane]]  | [[https://github.com/phronmophobic/membrane][https://img.shields.io/github/last-commit/phronmophobic/membrane.svg]] | [[https://clojars.org/com.phronemophobic/membrane][https://img.shields.io/clojars/v/com.phronemophobic/membrane.svg]] |
 | [[https://github.com/cljfx/cljfx][cljfx]]     | [[https://github.com/cljfx/cljfx][https://img.shields.io/github/last-commit/cljfx/cljfx.svg]]            | [[https://clojars.org/cljfx][https://img.shields.io/clojars/v/cljfx/cljfx.svg]]                 |
@@ -135,7 +140,7 @@ A list of clojure library.
 | [[https://github.com/clj-commons/seesaw][seesaw]]    | [[https://github.com/clj-commons/seesaw][https://img.shields.io/github/last-commit/clj-commons/seesaw.svg]]     | [[https://clojars.org/seesaw][https://img.shields.io/clojars/v/seesaw/seesaw.svg]]               |
 
 *** Single-Page
-| Name             | Active                                                                | Version                                                     |
+| Name             | Activity                                                              | Version                                                     |
 |------------------+-----------------------------------------------------------------------+-------------------------------------------------------------|
 | [[https://fulcro.fulcrologic.com/][Fulcro]]           | [[https://github.com/fulcrologic/fulcro][https://img.shields.io/github/last-commit/fulcrologic/fulcro.svg]]      | [[https://clojars.org/com.fulcrologic/fulcro][https://img.shields.io/clojars/v/com.fulcrologic/fulcro.svg]] |
 | [[https://github.com/pitch-io/uix][UIx]]              | [[https://github.com/pitch-io/uix][https://img.shields.io/github/last-commit/pitch-io/uix.svg]]            | [[https://clojars.org/com.pitch/uix.core][https://img.shields.io/clojars/v/com.pitch/uix.core.svg]]     |
@@ -146,7 +151,7 @@ A list of clojure library.
 | [[https://github.com/Day8/re-frame-http-fx][re-frame-http-fx]] | [[https://github.com/Day8/re-frame-http-fx][https://img.shields.io/github/last-commit/Day8/re-frame-http-fx.svg]]   | [[https://clojars.org/day8.re-frame/http-fx][https://img.shields.io/clojars/v/day8.re-frame/http-fx.svg]]  |
 
 *** WebFramework
-| Name     | Active                                                                           | Version                                                             |
+| Name     | Activity                                                                         | Version                                                             |
 |----------+----------------------------------------------------------------------------------+---------------------------------------------------------------------|
 | [[https://www.taoensso.com][Sente]]    | [[https://github.com/ptaoussanis/sente][https://img.shields.io/github/last-commit/ptaoussanis/sente.svg]]                  | [[https://clojars.org/com.taoensso/sente][https://img.shields.io/clojars/v/com.taoensso/sente.svg]]             |
 | [[http://pedestal.io/][Pedestal]] | [[https://github.com/pedestal/pedestal][https://img.shields.io/github/last-commit/pedestal/pedestal.svg]]                  | [[https://clojars.org/pedestal-service/lein-template][https://img.shields.io/clojars/v/pedestal-service/lein-template.svg]] |
@@ -154,7 +159,7 @@ A list of clojure library.
 | [[http://hoplon.io/][Hoplon]]   | [[https://github.com/hoplon/hoplon][https://img.shields.io/github/last-commit/hoplon/hoplon.svg]]                      | [[https://clojars.org/hoplon][https://img.shields.io/clojars/v/hoplon/hoplon.svg]]                  |
 
 *** HTML-Template
-| Name      | Active                                                           | Version                                                  |
+| Name      | Activity                                                         | Version                                                  |
 |-----------+------------------------------------------------------------------+----------------------------------------------------------|
 | [[https://github.com/yogthos/Selmer][Selmer]]    | [[https://github.com/yogthos/Selmer][https://img.shields.io/github/last-commit/yogthos/Selmer.svg]]     | [[https://clojars.org/selmer][https://img.shields.io/clojars/v/selmer/selmer.svg]]       |
 | [[https://github.com/weavejester/hiccup][Hiccup]]    | [[https://github.com/weavejester/hiccup][https://img.shields.io/github/last-commit/weavejester/hiccup.svg]] | [[https://clojars.org/hiccup][https://img.shields.io/clojars/v/hiccup/hiccup.svg]]       |
@@ -162,21 +167,26 @@ A list of clojure library.
 | [[https://github.com/cgrand/enlive][Enlive]]    | [[https://github.com/cgrand/enlive][https://img.shields.io/github/last-commit/cgrand/enlive.svg]]      | [[https://clojars.org/enlive][https://img.shields.io/clojars/v/enlive/enlive.svg]]       |
 | [[https://github.com/fhd/clostache][Clostache]] | [[https://github.com/fhd/clostache][https://img.shields.io/github/last-commit/fhd/clostache.svg]]      | [[https://clojars.org/clostache][https://img.shields.io/clojars/v/clostache/clostache.svg]] |
 
+*** CSS
+| Name   | Activity                                                      | Version                                            |
+|--------+---------------------------------------------------------------+----------------------------------------------------|
+| [[https://github.com/noprompt/garden][Garden]] | [[https://github.com/noprompt/garden][https://img.shields.io/github/last-commit/noprompt/garden.svg]] | [[https://clojars.org/garden][https://img.shields.io/clojars/v/garden/garden.svg]] |
+
 *** Network
-| Name  | Active                                                          | Version                                          |
+| Name  | Activity                                                        | Version                                          |
 |-------+-----------------------------------------------------------------+--------------------------------------------------|
 | [[https://github.com/nrepl/nrepl][nREPL]] | [[https://github.com/nrepl/nrepl][https://img.shields.io/github/last-commit/nrepl/nrepl.svg]]       | [[https://clojars.org/nrepl][https://img.shields.io/clojars/v/nrepl/nrepl.svg]] |
 | [[https://github.com/clojure-link/link][Link]]  | [[https://github.com/clojure-link/link][https://img.shields.io/github/last-commit/clojure-link/link.svg]] | [[https://clojars.org/link][https://img.shields.io/clojars/v/link/link.svg]]   |
 | [[https://aleph.io/][Aleph]] | [[https://github.com/clj-commons/aleph][https://img.shields.io/github/last-commit/clj-commons/aleph.svg]] | [[https://clojars.org/aleph][https://img.shields.io/clojars/v/aleph/aleph.svg]] |
 
 *** HttpClient
-| Name     | Active                                                         | Version                                                |
+| Name     | Activity                                                       | Version                                                |
 |----------+----------------------------------------------------------------+--------------------------------------------------------|
 | [[https://github.com/dakrone/clj-http][clj-http]] | [[https://github.com/dakrone/clj-http][https://img.shields.io/github/last-commit/dakrone/clj-http.svg]] | [[https://clojars.org/clj-http][https://img.shields.io/clojars/v/clj-http/clj-http.svg]] |
 | [[https://github.com/gnarroway/hato][hato]]     | [[https://github.com/gnarroway/hato][https://img.shields.io/github/last-commit/gnarroway/hato.svg]]   | [[https://clojars.org/hato][https://img.shields.io/clojars/v/hato/hato.svg]]         |
 
 *** HttpServer
-| Name          | Active                                                                    | Version                                                                                     |
+| Name          | Activity                                                                  | Version                                                                                     |
 |---------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------|
 | [[https://github.com/ring-clojure/ring][ring]]          | [[https://github.com/ring-clojure/ring][https://img.shields.io/github/last-commit/ring-clojure/ring.svg]]           | [[https://clojars.org/ring/ring-core][https://img.shields.io/clojars/v/ring/ring-core.svg]]                                         |
 | [[https://github.com/ring-clojure/ring-json][ring-json]]     | [[https://github.com/ring-clojure/ring-json][https://img.shields.io/github/last-commit/ring-clojure/ring-json.svg]]      | [[https://clojars.org/ring/ring-json][https://img.shields.io/clojars/v/ring/ring-json.svg]]                                         |
@@ -187,24 +197,24 @@ A list of clojure library.
 | [[https://github.com/AppsFlyer/donkey][Donkey]]        | [[https://github.com/AppsFlyer/donkey][https://img.shields.io/github/last-commit/AppsFlyer/donkey.svg]]            | [[https://clojars.org/com.appsflyer/donkey][https://img.shields.io/clojars/v/com.appsflyer/donkey.svg]]                                   |
 
 *** RESTful-API
-| Name          | Active                                                              | Version                                                    |
+| Name          | Activity                                                            | Version                                                    |
 |---------------+---------------------------------------------------------------------+------------------------------------------------------------|
 | [[https://github.com/metosin/compojure-api][compojure-api]] | [[https://github.com/metosin/compojure-api][https://img.shields.io/github/last-commit/metosin/compojure-api.svg]] | [[https://clojars.org/metosin/compojure-api][https://img.shields.io/clojars/v/metosin/compojure-api.svg]] |
 | [[https://www.juxt.land/yada/manual/index.html][Yada]]          | [[https://github.com/juxt/yada][https://img.shields.io/github/last-commit/juxt/yada.svg]]             | [[https://clojars.org/yada][https://img.shields.io/clojars/v/yada/yada.svg]]             |
 
 *** GraphQL-API
-| Name     | Active                                                              | Version                                                      |
+| Name     | Activity                                                            | Version                                                      |
 |----------+---------------------------------------------------------------------+--------------------------------------------------------------|
 | [[https://lacinia.readthedocs.io/en/latest/][Lacinia]]  | [[https://github.com/walmartlabs/lacinia][https://img.shields.io/github/last-commit/walmartlabs/lacinia.svg]]   | [[https://clojars.org/com.walmartlabs/lacinia][https://img.shields.io/clojars/v/com.walmartlabs/lacinia.svg]] |
 | [[https://github.com/clojurewerkz/titanium][Titanium]] | [[https://github.com/clojurewerkz/titanium][https://img.shields.io/github/last-commit/clojurewerkz/titanium.svg]] | [[https://clojars.org/clojurewerkz/titanium][https://img.shields.io/clojars/v/clojurewerkz/titanium.svg]]   |
 
 *** Email
-| Name   | Active                                                     | Version                                                 |
+| Name   | Activity                                                   | Version                                                 |
 |--------+------------------------------------------------------------+---------------------------------------------------------|
 | [[https://github.com/drewr/postal][postal]] | [[https://github.com/drewr/postal][https://img.shields.io/github/last-commit/drewr/postal.svg]] | [[https://clojars.org/com.draines/postal][https://img.shields.io/clojars/v/com.draines/postal.svg]] |
 
 *** Crypto
-| Name       | Active                                                           | Version                                                           |
+| Name       | Activity                                                         | Version                                                           |
 |------------+------------------------------------------------------------------+-------------------------------------------------------------------|
 | [[https://clojure.github.io/data.codec/][data.codec]] | [[https://github.com/clojure/data.codec][https://img.shields.io/github/last-commit/clojure/data.codec.svg]] | [[https://mvnrepository.com/artifact/org.clojure/data.codec][https://img.shields.io/maven-central/v/org.clojure/data.codec.svg]] |
 
@@ -217,36 +227,36 @@ A list of clojure library.
 | Convert | [[https://cognitect.github.io/transit-cljs/][transit-cljs]]      | [[https://github.com/cognitect/transit-cljs][https://img.shields.io/github/last-commit/cognitect/transit-cljs.svg]]    | [[https://mvnrepository.com/artifact/com.cognitect/transit-cljs][https://img.shields.io/maven-central/v/com.cognitect/transit-cljs.svg]]    |
 
 *** Serialization
-| Name  | Active                                                          | Version                                                 |
+| Name  | Activity                                                        | Version                                                 |
 |-------+-----------------------------------------------------------------+---------------------------------------------------------|
 | [[http://ptaoussanis.github.io/nippy/][Nippy]] | [[https://github.com/ptaoussanis/nippy][https://img.shields.io/github/last-commit/ptaoussanis/nippy.svg]] | [[https://clojars.org/com.taoensso/nippy][https://img.shields.io/clojars/v/com.taoensso/nippy.svg]] |
 
 *** Bytes
-| Name            | Active                                                                    | Version                                                              |
+| Name            | Activity                                                                  | Version                                                              |
 |-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------|
 | [[https://github.com/clj-commons/byte-transforms][byte-transforms]] | [[https://github.com/clj-commons/byte-transforms][https://img.shields.io/github/last-commit/clj-commons/byte-transforms.svg]] | [[https://clojars.org/org.clj-commons/byte-transforms][https://img.shields.io/clojars/v/org.clj-commons/byte-transforms.svg]] |
 
 *** Data Format
-| Format  | Name         | Active                                                               | Version                                                               |
-|---------+--------------+----------------------------------------------------------------------+-----------------------------------------------------------------------|
-| ZIP     | [[https://clojure.github.io/data.zip/][data.zip]]     | [[https://github.com/clojure/data.zip][https://img.shields.io/github/last-commit/clojure/data.zip.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/data.zip][https://img.shields.io/maven-central/v/org.clojure/data.zip.svg]]       |
-| CSV     | [[https://clojure.github.io/data.csv/][data.csv]]     | [[https://github.com/clojure/data.csv][https://img.shields.io/github/last-commit/clojure/data.csv.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/data.csv][https://img.shields.io/maven-central/v/org.clojure/data.csv.svg]]       |
-| XML     | [[https://clojure.github.io/data.xml/][data.xml]]     | [[https://github.com/clojure/data.xml][https://img.shields.io/github/last-commit/clojure/data.xml.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/data.xml][https://img.shields.io/maven-central/v/org.clojure/data.xml.svg]]       |
-| XML     | [[https://cljdoc.org/d/com.deepbeginnings/eximia/][Eximia]]       | [[https://github.com/nilern/Eximia][https://img.shields.io/github/last-commit/nilern/Eximia.svg]]          | [[https://clojars.org/com.deepbeginnings/eximia][https://img.shields.io/clojars/v/com.deepbeginnings/eximia.svg]]        |
-| JSON    | [[https://cljdoc.org/d/metosin/jsonista][jsonista]]     | [[https://github.com/metosin/jsonista][https://img.shields.io/github/last-commit/metosin/jsonista.svg]]       | [[https://clojars.org/metosin/jsonista][https://img.shields.io/clojars/v/metosin/jsonista.svg]]                 |
-| JSON    | [[https://github.com/dakrone/cheshire][cheshire]]     | [[https://github.com/dakrone/cheshire][https://img.shields.io/github/last-commit/dakrone/cheshire.svg]]       | [[https://clojars.org/cheshire][https://img.shields.io/clojars/v/cheshire/cheshire.svg]]                |
-| JSON    | [[https://clojure.github.io/data.json/][data.json]]    | [[https://github.com/clojure/data.json][https://img.shields.io/github/last-commit/clojure/data.json.svg]]      | [[https://mvnrepository.com/artifact/org.clojure/data.json][https://img.shields.io/maven-central/v/org.clojure/data.json.svg]]      |
-| YAML    | [[https://cljdoc.org/d/io.forward/yaml/][yaml]]         | [[https://github.com/owainlewis/yaml][https://img.shields.io/github/last-commit/owainlewis/yaml.svg]]        | [[https://clojars.org/yaml][https://img.shields.io/clojars/v/yaml/yaml.svg]]                        |
-| YAML    | [[https://cljdoc.org/d/clj-commons/clj-yaml/][clj-yaml]]     | [[https://github.com/clj-commons/clj-yaml][https://img.shields.io/github/last-commit/clj-commons/clj-yaml.svg]]   | [[https://clojars.org/clj-commons/clj-yaml][https://img.shields.io/clojars/v/clj-commons/clj-yaml.svg]]             |
+| Format | Name      | Activity                                                           | Version                                                          |
+|--------+-----------+--------------------------------------------------------------------+------------------------------------------------------------------|
+| ZIP    | [[https://clojure.github.io/data.zip/][data.zip]]  | [[https://github.com/clojure/data.zip][https://img.shields.io/github/last-commit/clojure/data.zip.svg]]     | [[https://mvnrepository.com/artifact/org.clojure/data.zip][https://img.shields.io/maven-central/v/org.clojure/data.zip.svg]]  |
+| CSV    | [[https://clojure.github.io/data.csv/][data.csv]]  | [[https://github.com/clojure/data.csv][https://img.shields.io/github/last-commit/clojure/data.csv.svg]]     | [[https://mvnrepository.com/artifact/org.clojure/data.csv][https://img.shields.io/maven-central/v/org.clojure/data.csv.svg]]  |
+| XML    | [[https://clojure.github.io/data.xml/][data.xml]]  | [[https://github.com/clojure/data.xml][https://img.shields.io/github/last-commit/clojure/data.xml.svg]]     | [[https://mvnrepository.com/artifact/org.clojure/data.xml][https://img.shields.io/maven-central/v/org.clojure/data.xml.svg]]  |
+| XML    | [[https://cljdoc.org/d/com.deepbeginnings/eximia/][Eximia]]    | [[https://github.com/nilern/Eximia][https://img.shields.io/github/last-commit/nilern/Eximia.svg]]        | [[https://clojars.org/com.deepbeginnings/eximia][https://img.shields.io/clojars/v/com.deepbeginnings/eximia.svg]]   |
+| JSON   | [[https://cljdoc.org/d/metosin/jsonista][jsonista]]  | [[https://github.com/metosin/jsonista][https://img.shields.io/github/last-commit/metosin/jsonista.svg]]     | [[https://clojars.org/metosin/jsonista][https://img.shields.io/clojars/v/metosin/jsonista.svg]]            |
+| JSON   | [[https://github.com/dakrone/cheshire][cheshire]]  | [[https://github.com/dakrone/cheshire][https://img.shields.io/github/last-commit/dakrone/cheshire.svg]]     | [[https://clojars.org/cheshire][https://img.shields.io/clojars/v/cheshire/cheshire.svg]]           |
+| JSON   | [[https://clojure.github.io/data.json/][data.json]] | [[https://github.com/clojure/data.json][https://img.shields.io/github/last-commit/clojure/data.json.svg]]    | [[https://mvnrepository.com/artifact/org.clojure/data.json][https://img.shields.io/maven-central/v/org.clojure/data.json.svg]] |
+| YAML   | [[https://cljdoc.org/d/io.forward/yaml/][yaml]]      | [[https://github.com/owainlewis/yaml][https://img.shields.io/github/last-commit/owainlewis/yaml.svg]]      | [[https://clojars.org/yaml][https://img.shields.io/clojars/v/yaml/yaml.svg]]                   |
+| YAML   | [[https://cljdoc.org/d/clj-commons/clj-yaml/][clj-yaml]]  | [[https://github.com/clj-commons/clj-yaml][https://img.shields.io/github/last-commit/clj-commons/clj-yaml.svg]] | [[https://clojars.org/clj-commons/clj-yaml][https://img.shields.io/clojars/v/clj-commons/clj-yaml.svg]]        |
 
 *** Doc
-| Name         | Active                                                           | Version                                                        |
+| Name         | Activity                                                           | Version                                                        |
 |--------------+--------------------------------------------------------------------+----------------------------------------------------------------|
 | [[https://cljdoc.org/d/markdown-clj/][markdown-clj]] | [[https://github.com/yogthos/markdown-clj][https://img.shields.io/github/last-commit/yogthos/markdown-clj.svg]] | [[https://clojars.org/markdown-clj][https://img.shields.io/clojars/v/markdown-clj/markdown-clj.svg]] |
 | [[https://github.com/bnbeckwith/orgmode][orgmode]]      | [[https://github.com/bnbeckwith/orgmode][https://img.shields.io/github/last-commit/bnbeckwith/orgmode.svg]]   | /                                                              |
 
 *** SQL DSL
-| Name             | Active                                                                 | Version                                                   |
+| Name             | Activity                                                               | Version                                                   |
 |------------------+------------------------------------------------------------------------+-----------------------------------------------------------|
 | [[https://cljdoc.org/d/com.github.seancorfield/honeysql/CURRENT][honeysql]]         | [[https://github.com/seancorfield/honeysql][https://img.shields.io/github/last-commit/seancorfield/honeysql.svg]]    | [[https://clojars.org/honeysql][https://img.shields.io/clojars/v/honeysql/honeysql.svg]]    |
 | [[https://github.com/metabase/toucan][toucan]]           | [[https://github.com/metabase/toucan][https://img.shields.io/github/last-commit/metabase/toucan.svg]]          | [[https://clojars.org/toucan][https://img.shields.io/clojars/v/toucan/toucan.svg]]        |
@@ -259,7 +269,7 @@ A list of clojure library.
 | [[https://github.com/PureFnOrg/sqlium][sqlium]]           | [[https://github.com/PureFnOrg/sqlium][https://img.shields.io/github/last-commit/PureFnOrg/sqlium.svg]]         | [[https://clojars.org/org.purefn/sqlium][https://img.shields.io/clojars/v/org.purefn/sqlium.svg]]    |
 
 *** Database
-| DB                    | Driver      | Active                                                                      | Version                                                             |
+| DB                    | Driver      | Activity                                                                    | Version                                                             |
 |-----------------------+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------|
 | [[https://www.tutorialspoint.com/jdbc/index.htm][JDBC]]                  | [[https://clojure.github.io/java.jdbc/][java.jdbc]]   | [[https://github.com/clojure/java.jdbc][https://img.shields.io/github/last-commit/clojure/java.jdbc.svg]]             | [[https://mvnrepository.com/artifact/org.clojure/java.jdbc][https://img.shields.io/maven-central/v/org.clojure/java.jdbc.svg]]    |
 | [[https://cassandra.apache.org][Cassandra]]             | [[http://clojurecassandra.info/][Cassaforte]]  | [[https://github.com/clojurewerkz/cassaforte][https://img.shields.io/github/last-commit/clojurewerkz/cassaforte.svg]]       | [[https://clojars.org/clojurewerkz/cassaforte][https://img.shields.io/clojars/v/clojurewerkz/cassaforte.svg]]        |
@@ -278,13 +288,13 @@ A list of clojure library.
 | [[https://github.com/juji-io/datalevin][Datalevin]] (memory db) | [[https://github.com/juji-io/datalevin][Datalevin]]   | [[https://github.com/juji-io/datalevin][https://img.shields.io/github/last-commit/juji-io/datalevin.svg]]             | [[https://clojars.org/datalevin][https://img.shields.io/clojars/v/datalevin/datalevin.svg]]            |
 
 *** Map-Reduce
-| Name   | Active                                                           | Version                                                              |
+| Name   | Activity                                                         | Version                                                              |
 |--------+------------------------------------------------------------------+----------------------------------------------------------------------|
 | [[https://github.com/Netflix/PigPen][PigPen]] | [[https://github.com/Netflix/PigPen][https://img.shields.io/github/last-commit/Netflix/PigPen.svg]]     | [[https://mvnrepository.com/artifact/com.netflix.pigpen/pigpen][https://img.shields.io/maven-central/v/com.netflix.pigpen/pigpen.svg]] |
 | [[http://www.onyxplatform.org/][Onyx]]   | [[https://github.com/onyx-platform/onyx][https://img.shields.io/github/last-commit/onyx-platform/onyx.svg]] | [[https://clojars.org/org.onyxplatform/onyx][https://img.shields.io/clojars/v/org.onyxplatform/onyx.svg]]           |
 
 *** Utils
-| Name           | Active                                                                 | Version                                                            |
+| Name           | Activity                                                               | Version                                                            |
 |----------------+------------------------------------------------------------------------+--------------------------------------------------------------------|
 | [[https://weavejester.github.io/medley/medley.core.html][medley]]         | [[https://github.com/weavejester/medley][https://img.shields.io/github/last-commit/weavejester/medley.svg]]       | [[https://clojars.org/medley][https://img.shields.io/clojars/v/medley/medley.svg]]                 |
 | [[https://github.com/clj-time/clj-time][clj-time]]       | [[https://github.com/clj-time/clj-time][https://img.shields.io/github/last-commit/clj-time/clj-time.svg]]        | [[https://clojars.org/clj-time][https://img.shields.io/clojars/v/clj-time/clj-time.svg]]             |
@@ -293,31 +303,31 @@ A list of clojure library.
 | [[https://plumatic.github.io/schema][Schema]]         | [[https://github.com/plumatic/schema][https://img.shields.io/github/last-commit/plumatic/schema.svg]]          | [[https://clojars.org/prismatic/schema][https://img.shields.io/clojars/v/prismatic/schema.svg]]              |
 
 *** CSS DSL
-| Name   | Active                                                        | Version                                            |
+| Name   | Activity                                                      | Version                                            |
 |--------+---------------------------------------------------------------+----------------------------------------------------|
 | [[https://github.com/noprompt/garden][Garden]] | [[https://github.com/noprompt/garden][https://img.shields.io/github/last-commit/noprompt/garden.svg]] | [[https://clojars.org/garden][https://img.shields.io/clojars/v/garden/garden.svg]] |
 
 *** i18n
-| Name   | Active                                                          | Version                                                 |
+| Name   | Activity                                                        | Version                                                 |
 |--------+-----------------------------------------------------------------+---------------------------------------------------------|
 | [[https://cljdoc.xyz/d/tongue/tongue/CURRENT][Tongue]] | [[https://github.com/tonsky/tongue][https://img.shields.io/github/last-commit/tonsky/tongue.svg]]     | [[https://clojars.org/tongue][https://img.shields.io/clojars/v/tongue/tongue.svg]]      |
 | [[ptaoussanis.github.io/tower/][Tower]]  | [[https://github.com/ptaoussanis/tower][https://img.shields.io/github/last-commit/ptaoussanis/tower.svg]] | [[https://clojars.org/com.taoensso/tower][https://img.shields.io/clojars/v/com.taoensso/tower.svg]] |
 
 *** Logging
-| Name       | Active                                                                     | Version                                                    |
+| Name       | Activity                                                                   | Version                                                    |
 |------------+----------------------------------------------------------------------------+------------------------------------------------------------|
 | [[https://github.com/ptaoussanis/timbre][Timbre]]     | [[https://github.com/ptaoussanis/timbre][https://img.shields.io/github/last-commit/ptaoussanis/timbre.svg]]           | [[https://clojars.org/com.taoensso/timbre][https://img.shields.io/clojars/v/com.taoensso/timbre.svg]]   |
 | [[https://cambium-clojure.github.io/][Cambium]]    | [[https://github.com/cambium-clojure/cambium.core][https://img.shields.io/github/last-commit/cambium-clojure/cambium.core.svg]] | [[https://clojars.org/cambium/cambium.core][https://img.shields.io/clojars/v/cambium/cambium.core.svg]]  |
 | [[https://github.com/athos/Postmortem][Postmortem]] | [[https://github.com/athos/Postmortem][https://img.shields.io/github/last-commit/athos/Postmortem.svg]]             | [[https://clojars.org/postmortem][https://img.shields.io/clojars/v/postmortem/postmortem.svg]] |
 
 *** Testing
-| Name      | Active                                                            | Version                                                            |
+| Name      | Activity                                                          | Version                                                            |
 |-----------+-------------------------------------------------------------------+--------------------------------------------------------------------|
 | [[https://cljdoc.org/d/midje/midje][Midje]]     | [[https://github.com/marick/Midje][https://img.shields.io/github/last-commit/marick/Midje.svg]]        | [[https://clojars.org/midje][https://img.shields.io/clojars/v/midje/midje.svg]]                   |
 | [[https://cljdoc.org/d/cloverage/cloverage][cloverage]] | [[https://github.com/cloverage/cloverage][https://img.shields.io/github/last-commit/cloverage/cloverage.svg]] | [[https://clojars.org/lein-cloverage][https://img.shields.io/clojars/v/lein-cloverage/lein-cloverage.svg]] |
 
 *** Profile
-| Name         | Active                                                             | Version                                                             |
+| Name         | Activity                                                           | Version                                                             |
 |--------------+--------------------------------------------------------------------+---------------------------------------------------------------------|
 | [[https://github.com/ptaoussanis/tufte][Tufte]]        | [[https://github.com/ptaoussanis/tufte][https://img.shields.io/github/last-commit/ptaoussanis/tufte.svg]]    | [[https://clojars.org/com.taoensso/tufte][https://img.shields.io/clojars/v/com.taoensso/tufte.svg]]             |
 | [[https://github.com/jstepien/flames][Flames]]       | [[https://github.com/jstepien/flames][https://img.shields.io/github/last-commit/jstepien/flames.svg]]      | [[https://clojars.org/flames][https://img.shields.io/clojars/v/flames.svg]]                         |
