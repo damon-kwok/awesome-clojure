@@ -162,13 +162,14 @@ A list of clojure library.
 | [[http://hoplon.io/][Hoplon]]   | [[https://github.com/hoplon/hoplon][https://img.shields.io/github/last-commit/hoplon/hoplon.svg]]                      | [[https://clojars.org/hoplon][https://img.shields.io/clojars/v/hoplon/hoplon.svg]]                  |
 
 *** HTML-Template
-| Name      | Activity                                                         | Version                                                  |
-|-----------+------------------------------------------------------------------+----------------------------------------------------------|
-| [[https://github.com/yogthos/Selmer][Selmer]]    | [[https://github.com/yogthos/Selmer][https://img.shields.io/github/last-commit/yogthos/Selmer.svg]]     | [[https://clojars.org/selmer][https://img.shields.io/clojars/v/selmer/selmer.svg]]       |
-| [[https://github.com/weavejester/hiccup][Hiccup]]    | [[https://github.com/weavejester/hiccup][https://img.shields.io/github/last-commit/weavejester/hiccup.svg]] | [[https://clojars.org/hiccup][https://img.shields.io/clojars/v/hiccup/hiccup.svg]]       |
-| [[https://github.com/r0man/sablono][Sablono]]   | [[https://github.com/r0man/sablono][https://img.shields.io/github/last-commit/r0man/sablono.svg]]      | [[https://clojars.org/sablono][https://img.shields.io/clojars/v/sablono/sablono.svg]]     |
-| [[https://github.com/cgrand/enlive][Enlive]]    | [[https://github.com/cgrand/enlive][https://img.shields.io/github/last-commit/cgrand/enlive.svg]]      | [[https://clojars.org/enlive][https://img.shields.io/clojars/v/enlive/enlive.svg]]       |
-| [[https://github.com/fhd/clostache][Clostache]] | [[https://github.com/fhd/clostache][https://img.shields.io/github/last-commit/fhd/clostache.svg]]      | [[https://clojars.org/clostache][https://img.shields.io/clojars/v/clostache/clostache.svg]] |
+| Name      | Activity                                                            | Version                                                  |
+|-----------+---------------------------------------------------------------------+----------------------------------------------------------|
+| [[https://github.com/yogthos/Selmer][Selmer]]    | [[https://github.com/yogthos/Selmer][https://img.shields.io/github/last-commit/yogthos/Selmer.svg]]        | [[https://clojars.org/selmer][https://img.shields.io/clojars/v/selmer/selmer.svg]]       |
+| [[https://github.com/weavejester/hiccup][Hiccup]]    | [[https://github.com/weavejester/hiccup][https://img.shields.io/github/last-commit/weavejester/hiccup.svg]]    | [[https://clojars.org/hiccup][https://img.shields.io/clojars/v/hiccup/hiccup.svg]]       |
+| [[https://github.com/r0man/sablono][Sablono]]   | [[https://github.com/r0man/sablono][https://img.shields.io/github/last-commit/r0man/sablono.svg]]         | [[https://clojars.org/sablono][https://img.shields.io/clojars/v/sablono/sablono.svg]]     |
+| [[https://github.com/cgrand/enlive][Enlive]]    | [[https://github.com/cgrand/enlive][https://img.shields.io/github/last-commit/cgrand/enlive.svg]]         | [[https://clojars.org/enlive][https://img.shields.io/clojars/v/enlive/enlive.svg]]       |
+| [[https://github.com/fhd/clostache][Clostache]] | [[https://github.com/fhd/clostache][https://img.shields.io/github/last-commit/fhd/clostache.svg]]         | [[https://clojars.org/clostache][https://img.shields.io/clojars/v/clostache/clostache.svg]] |
+| [[https://github.com/davidsantiago/stencil][Stencil]]   | [[https://github.com/davidsantiago/stencil][https://img.shields.io/github/last-commit/davidsantiago/stencil.svg]] | [[https://clojars.org/stencil][https://img.shields.io/clojars/v/stencil/stencil.svg]]     |
 
 *** CSS
 | Name   | Activity                                                      | Version                                            |
