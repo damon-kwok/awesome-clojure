@@ -160,6 +160,7 @@ A list of clojure library.
 | [[http://pedestal.io/][Pedestal]] | [[https://github.com/pedestal/pedestal][https://img.shields.io/github/last-commit/pedestal/pedestal.svg]]                  | [[https://clojars.org/pedestal-service/lein-template][https://img.shields.io/clojars/v/pedestal-service/lein-template.svg]] |
 | [[http://www.luminusweb.net/][Luminus]]  | [[https://github.com/luminus-framework/luminus-template][https://img.shields.io/github/last-commit/luminus-framework/luminus-template.svg]] | [[https://clojars.org/luminus/lein-template][https://img.shields.io/clojars/v/luminus/lein-template.svg]]          |
 | [[http://hoplon.io/][Hoplon]]   | [[https://github.com/hoplon/hoplon][https://img.shields.io/github/last-commit/hoplon/hoplon.svg]]                      | [[https://clojars.org/hoplon][https://img.shields.io/clojars/v/hoplon/hoplon.svg]]                  |
+| [[https://kit-clj.github.io][Kit]]      | [[https://github.com/kit-clj/kit][https://img.shields.io/github/last-commit/kit-clj/kit.svg]]                        | [[https://clojars.org/io.github.kit-clj/kit-core][https://img.shields.io/clojars/v/io.github.kit-clj/kit-core.svg]]     |
 
 *** HTML-Template
 | Name      | Activity                                                            | Version                                                  |
