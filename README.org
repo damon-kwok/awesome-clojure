@@ -24,6 +24,7 @@ A list of clojure library.
 | [[https://clojure.org/][Clojure]]          | [[https://github.com/clojure/clojure][https://img.shields.io/github/last-commit/clojure/clojure.svg]]          | [[https://mvnrepository.com/artifact/org.clojure/clojure][https://img.shields.io/maven-central/v/org.clojure/clojure.svg]]          |
 | [[https://clojurescript.org/][ClojureScript]]    | [[https://github.com/clojure/clojurescript][https://img.shields.io/github/last-commit/clojure/clojurescript.svg]]    | [[https://mvnrepository.com/artifact/org.clojure/clojurescript][https://img.shields.io/maven-central/v/org.clojure/clojurescript.svg]]    |
 | [[https://clojure.org/about/clojureclr][Clojure-CLR]]      | [[https://github.com/clojure/clojure-clr][https://img.shields.io/github/last-commit/clojure/clojure-clr.svg]]      | [[https://www.nuget.org/packages/Clojure][https://img.shields.io/nuget/v/clojure.svg]]                              |
+| [[https://clavascript.github.io/clavascript/][ClavaScript]]      | [[https://github.com/clavascript/clavascript][https://img.shields.io/github/last-commit/clavascript/clavascript.svg]]  | [[https://img.shields.io/github/v/release/LightTable/LightTable?include_prereleases.svg][https://github.com/clavascript/clavascript/releases]]                     |
 | [[http://try.clojerl.online/][Clojerl]]          | [[https://github.com/clojerl/clojerl][https://img.shields.io/github/last-commit/clojerl/clojerl.svg]]          | [[https://hex.pm/packages/clojerl][https://img.shields.io/hexpm/v/clojerl.svg]]                              |
 | [[https://github.com/clojure/core.async][core.async]]       | [[https://github.com/clojure/core.async][https://img.shields.io/github/last-commit/clojure/core.async.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.async][https://img.shields.io/maven-central/v/org.clojure/core.async.svg]]       |
 | [[https://github.com/clojure/core.logic][core.logic]]       | [[https://github.com/clojure/core.logic][https://img.shields.io/github/last-commit/clojure/core.logic.svg]]       | [[https://mvnrepository.com/artifact/org.clojure/core.logic][https://img.shields.io/maven-central/v/org.clojure/core.logic.svg]]       |
@@ -257,6 +258,11 @@ A list of clojure library.
 | JSON   | [[https://clojure.github.io/data.json/][data.json]] | [[https://github.com/clojure/data.json][https://img.shields.io/github/last-commit/clojure/data.json.svg]]    | [[https://mvnrepository.com/artifact/org.clojure/data.json][https://img.shields.io/maven-central/v/org.clojure/data.json.svg]] |
 | YAML   | [[https://cljdoc.org/d/io.forward/yaml/][yaml]]      | [[https://github.com/owainlewis/yaml][https://img.shields.io/github/last-commit/owainlewis/yaml.svg]]      | [[https://clojars.org/yaml][https://img.shields.io/clojars/v/yaml/yaml.svg]]                   |
 | YAML   | [[https://cljdoc.org/d/clj-commons/clj-yaml/][clj-yaml]]  | [[https://github.com/clj-commons/clj-yaml][https://img.shields.io/github/last-commit/clj-commons/clj-yaml.svg]] | [[https://clojars.org/clj-commons/clj-yaml][https://img.shields.io/clojars/v/clj-commons/clj-yaml.svg]]        |
+
+*** Data Visualization
+| Name     | Activity                                                       | Version                                                         |
+|----------+----------------------------------------------------------------+-----------------------------------------------------------------|
+| [[https://clojure.github.io/data.zip/][data.zip]] | [[https://github.com/clojure/data.zip][https://img.shields.io/github/last-commit/clojure/data.zip.svg]] | [[https://mvnrepository.com/artifact/org.clojure/data.zip][https://img.shields.io/maven-central/v/org.clojure/data.zip.svg]] |
 
 *** Doc
 | Name         | Activity                                                           | Version                                                        |
