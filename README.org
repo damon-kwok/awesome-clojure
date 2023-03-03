@@ -214,10 +214,19 @@ A list of clojure library.
 | [[https://github.com/metosin/pohjavirta][pohjavirta]]            | [[https://github.com/metosin/pohjavirta][https://img.shields.io/github/last-commit/metosin/pohjavirta.svg]]                      | [[https://clojars.org/metosin/pohjavirta][https://img.shields.io/clojars/v/metosin/pohjavirta.svg]]                                     |
 
 *** Routing
-| Name      | Activity                                                            | Version                                                  |
-|-----------+---------------------------------------------------------------------+----------------------------------------------------------|
-| [[https://github.com/weavejester/compojure][Compojure]] | [[https://github.com/weavejester/compojure][https://img.shields.io/github/last-commit/weavejester/compojure.svg]] | [[https://clojars.org/compojure][https://img.shields.io/clojars/v/compojure/compojure.svg]] |
-| [[https://github.com/metosin/reitit][reitit]]    | [[https://github.com/metosin/reitit][https://img.shields.io/github/last-commit/metosin/reitit.svg]]        | [[https://clojars.org/metosin/reitit][https://img.shields.io/clojars/v/metosin/reitit.svg]]      |
+| Name      | Activity                                                            | Version                                                          |
+|-----------+---------------------------------------------------------------------+------------------------------------------------------------------|
+| [[https://github.com/metosin/reitit][reitit]]    | [[https://github.com/metosin/reitit][https://img.shields.io/github/last-commit/metosin/reitit.svg]]        | [[https://clojars.org/metosin/reitit][https://img.shields.io/clojars/v/metosin/reitit.svg]]              |
+| [[https://github.com/weavejester/ataraxy][Ataraxy]]   | [[https://github.com/weavejester/ataraxy][https://img.shields.io/github/last-commit/weavejester/ataraxy.svg]]   | [[https://clojars.org/ataraxy][https://img.shields.io/clojars/v/ataraxy/ataraxy.svg]]             |
+| [[https://github.com/weavejester/compojure][Compojure]] | [[https://github.com/weavejester/compojure][https://img.shields.io/github/last-commit/weavejester/compojure.svg]] | [[https://clojars.org/compojure][https://img.shields.io/clojars/v/compojure/compojure.svg]]         |
+| [[https://github.com/askonomm/ruuter][Rutter]]    | [[https://github.com/askonomm/ruuter][https://img.shields.io/github/last-commit/askonomm/ruuter.svg]]       | [[https://clojars.org/org.clojars.askonomm/ruuter][https://img.shields.io/clojars/v/org.clojars.askonomm/ruuter.svg]] |
+| [[https://github.com/niquola/route-map][route-map]] | [[https://github.com/niquola/route-map][https://img.shields.io/github/last-commit/niquola/route-map.svg]]     | [[https://clojars.org/route-map][https://img.shields.io/clojars/v/route-map/route-map.svg]]         |
+| [[https://github.com/weavejester/clout][Clout]]     | [[https://github.com/weavejester/clout][https://img.shields.io/github/last-commit/weavejester/clout.svg]]     | [[https://clojars.org/clout][https://img.shields.io/clojars/v/clout/clout.svg]]                 |
+| [[https://github.com/darkleaf/router][Router]]    | [[https://github.com/darkleaf/router][https://img.shields.io/github/last-commit/darkleaf/router.svg]]       | [[https://clojars.org/darkleaf/router][https://img.shields.io/clojars/v/darkleaf/router.svg]]             |
+| [[https://github.com/clj-commons/secretary][secretary]] | [[https://github.com/clj-commons/secretary][https://img.shields.io/github/last-commit/clj-commons/secretary.svg]] | [[https://clojars.org/clj-commons/secretary][https://img.shields.io/clojars/v/clj-commons/secretary.svg]]       |
+| [[https://github.com/juxt/bidi][bidi]]      | [[https://github.com/juxt/bidi][https://img.shields.io/github/last-commit/juxt/bidi.svg]]             | [[https://clojars.org/bidi][https://img.shields.io/clojars/v/bidi/bidi.svg]]                   |
+| [[https://github.com/domkm/silk][Silk]]      | [[https://github.com/domkm/silk][https://img.shields.io/github/last-commit/domkm/silk.svg]]            | [[https://clojars.org/com.domkm/silk][https://img.shields.io/clojars/v/com.domkm/silk.svg]]              |
+| [[https://github.com/thatismatt/gudu][gudu]]      | [[https://github.com/thatismatt/gudu][https://img.shields.io/github/last-commit/thatismatt/gudu.svg]]       | /                                                                |
 
 *** RESTful-API
 | Name          | Activity                                                            | Version                                                    |
