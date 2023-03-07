@@ -97,7 +97,7 @@ A list of clojure library.
 *** DevOps
 | Name       | Activity                                                        | Version                                                |
 |------------+-----------------------------------------------------------------+--------------------------------------------------------|
-| [[https://github.com/nubank/clj-github][clj-github]] | [[https://github.com/nubank/clj-github][https://img.shields.io/github/last-commit/nubank/clj-github.svg]] | [[https://clojars.org/nubank/clj-github][https://img.shields.io/clojars/v/nubank/clj-github.svg]] |
+| [[https://github.com/nubank/clj-github][clj-github]] | [[https://github.com/nubank/clj-github][https://img.shields.io/github/last-commit/nubank/clj-github.svg]] | [[https://clojars.org/dev.nubank/clj-github][https://img.shields.io/clojars/v/dev.nubank/clj-github.svg]] |
 
 *** Plugins
 | Name                  | Activity                                                                   | Version                                                              |
