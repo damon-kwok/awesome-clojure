@@ -171,6 +171,7 @@ A list of clojure library.
 | Name  | Activity                                                         | Version                                                 |
 |-------+------------------------------------------------------------------+---------------------------------------------------------|
 | [[https://github.com/lambdaisland/trikl][Trikl]] | [[https://github.com/lambdaisland/trikl][https://img.shields.io/github/last-commit/lambdaisland/trikl.svg]] | [[https://clojars.org/lambdaisland/trikl][https://img.shields.io/clojars/v/lambdaisland/trikl.svg]] |
+| [[https://github.com/eccentric-j/cljs-tui-template][cljs-tui-template]] | [[https://github.com/eccentric-j/cljs-tui-template][https://img.shields.io/github/last-commit/eccentric-j/cljs-tui-template.svg]] | [[https://clojars.org/cljs-tui/lein-template][https://img.shields.io/clojars/v/cljs-tui/lein-template.svg]] |
 
 *** Single-Page
 | Name             | Activity                                                              | Version                                                     |
