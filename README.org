@@ -67,7 +67,7 @@ A list of clojure library.
 | Name   | Activity                                                         | Version |
 |--------+------------------------------------------------------------------+---------|
 | [[https://squint-cljs.github.io/cherry][Cherry]] | [[https://github.com/squint-cljs/cherry][https://img.shields.io/github/last-commit/squint-cljs/cherry.svg]] | /       |
-| [[https://squint-cljs.github.io/squint][Squnit]] | [[https://github.com/squint-cljs/squnit][https://img.shields.io/github/last-commit/squint-cljs/squnit.svg]] | /       |
+| [[https://squint-cljs.github.io/squint][Squint]] | [[https://github.com/squint-cljs/squint][https://img.shields.io/github/last-commit/squint-cljs/squint.svg]] | /       |
 
 *** Editor
 | Name              | Activity                                                                    | Version                                                                               |
