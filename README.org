@@ -63,6 +63,12 @@ A list of clojure library.
 | [[https://github.com/killme2008/defun][defun]]                | [[https://github.com/killme2008/defun][https://img.shields.io/github/last-commit/killme2008/defun.svg]]   | [[https://clojars.org/defun][https://img.shields.io/clojars/v/defun/defun.svg]]         |
 | [[https://github.com/clojusc/defun][clojusc/defun]]        | [[https://github.com/clojusc/defun][https://img.shields.io/github/last-commit/clojusc/defun.svg]]      | [[https://clojars.org/clojusc/defun][https://img.shields.io/clojars/v/clojusc/defun.svg]]       |
 
+*** for JavaScript
+| Name   | Activity                                                         | Version |
+|--------+------------------------------------------------------------------+---------|
+| [[https://squint-cljs.github.io/cherry][Cherry]] | [[https://github.com/squint-cljs/cherry][https://img.shields.io/github/last-commit/squint-cljs/cherry.svg]] | /       |
+| [[https://squint-cljs.github.io/squint][Squnit]] | [[https://github.com/squint-cljs/squnit][https://img.shields.io/github/last-commit/squint-cljs/squnit.svg]] | /       |
+
 *** Editor
 | Name              | Activity                                                                    | Version                                                                               |
 |-------------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------------|
